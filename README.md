@@ -1,50 +1,54 @@
-### **22 _Mi_** Preface
+### [**00 _#_** Preface](L00)  
+- WWW, Client/Server, HTTP, W3C
+- Entwicklungsumgebung
+
+#### [**22 _Mi_** KickOff Meeting](L00/Review_Meeting)
+
+#### [**24 _Fr_** Workshop](L00/#aufgabe)
 
 ---
 
 
-### [**01 _LE_** WWW und HTML](L01)  
-- WWW, Client/Server, HTTP, W3C
+### [**01 _#_** Einstieg HTML](L01)  
 - Grundlagen HTML
 - Semantische Struktur, DOM
 
+#### [**29 _Mi_** Review Meeting #01](L01/Review_Meeting)
 
-### [**22 _Mi_** Review #01](L01/Review)
-
-### [**24 _Fr_** Workshop](L01/Task)
+#### [**01 _Fr_** Workshop](L01/#aufgabe)
 
 ---
 
-### [**02 _LE_** HTML5 Familie](L02)  
+### [**02 _#_** HTML5 Familie](L02)  
 - HTML5 Familie
 - Multimediale Inhalte, Audio, Video
 
-### [**29 _Mi_** Review #02](L02/Review)
+#### [**06 _Mi_** Review Meeting #02](L02/Review_Meeting)
 
-### [**01 _Fr_** Workshop](L01/Task)
+#### [**08 _Fr_** Workshop](L02/#aufgabe)
 
 ---
 
-### [**03 _LE_** CSS I](L03)  
-- Einstieg in CSS
+### [**03 _#_** Einstieg CSS](L03)  
+- Einführung
 - Eigenschaften
 - Selektoren
 - Kaskadierung und Vererbung
 - CSS Box Model und Maßeinheiten
 
-### [**06 _Mi_** Review #03](03/Review)
+#### [**13 _Mi_** Review Meeting #03](L03/Review_Meeting)
 
-### [**08 _Fr_** Workshop](L03/Task)
+#### [**15 _Fr_** Workshop](L03/#aufgabe)
 
 ---
 
-### [**04 _LE_** CSS II](L04)
+### [**04 _#_** CSS Vertiefung](L04)
 
 - Komplexe Selektoren
 - Positionierung, Flussverhalten und Layout
 - Responsive Design
-- Transition und 
+- Transition und Animation
 
-### [**13 _Mi_** Review #04](04/Review)
+#### [**20 _Mi_** Review Meeting #04](L04/Review_Meeting)
 
-### [**15 _Fr_** Workshop](L04/Task)
+#### [**22 _Fr_** Workshop](L04/#aufgabe)
