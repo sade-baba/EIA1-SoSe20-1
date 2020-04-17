@@ -46,7 +46,7 @@ Definierte Eigenschaften werden an die (semantisch untergeordneten) Kinderelemen
     <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L03/05_CSS_Box_Model_und_Masseinheiten.mp4">Zum Video</a>
 </video>
 
-Das CSS-Box-Model beschreibt, dass alle Elemente im Browser auf Basis einer Box beschrieben werden können, die aus einer bestimmten Größe (Höhe x Breite), einem Innenabstand (<b>padding</b>), einem Rahmen (<b>border</p>) und einem Außenabstand (<b>margin</b>) bestehen.<br>
+Das CSS-Box-Model beschreibt, dass alle Elemente im Browser auf Basis einer Box beschrieben werden können, die aus einer bestimmten Größe (Höhe x Breite), einem Innenabstand (<b>padding</b>), einem Rahmen (<b>border</b>) und einem Außenabstand (<b>margin</b>) bestehen.<br>
 Der Browser arbeitet mit verschiedenen Maßeinheiten, für den Anfang genügt das Pixelmaß (<b>px</b>). Ansonsten gibt es beispielsweise noch Angaben in <b>pt</b> (statisch, Anwendung im Druck), <b>em</b> und <b>rem</b> (relative Angabe) oder <b>Prozent</b>.
 
 ### Take Aways
