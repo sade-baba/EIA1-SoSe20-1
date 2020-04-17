@@ -35,7 +35,7 @@ Positionierung:<br>
 </video>
 
 Responsive Design heißt, alle (relevanten) Endgerätegrößen zu bedienen, wie Smartphones, Laptops, Tablets, Bildschirme…<br>
-Technisch gesehen bedeutet das, dass die Darstellung der Benutzeroberfläche zwar an unterschiedliche Ausgabegeräte angepasst wird, die Datenbasis bleibt jedoch gleich — konzeptionell ist auch das Gleichbleiben der semantischen Datenbasis wichtig. Dieses Anpassen kann <b>adaptiv</b>(stufenweise) oder <b>responsive</b> (stufenlos) passieren, zum Beispiel über Breakpoints und Mediaqueries oder flexible Größen- und Positionierungsanweisungen.
+Technisch gesehen bedeutet das, dass die Darstellung der Benutzeroberfläche zwar an unterschiedliche Ausgabegeräte angepasst wird, die Datenbasis bleibt jedoch gleich — konzeptionell ist auch das Gleichbleiben der semantischen Datenbasis wichtig. Dieses Anpassen kann <b>adaptiv</b> (stufenweise) oder <b>responsive</b> (stufenlos) passieren, zum Beispiel über Breakpoints und Mediaqueries oder flexible Größen- und Positionierungsanweisungen.
 
 <b>Links im Video</b><br>
 Responsive Cat:<br>
