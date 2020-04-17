@@ -23,7 +23,7 @@ Für differenziertere Layouts kann man sich Hilfsmitteln wie Grid oder Flexbox b
 
 <b>Links im Video</b><br>
 Float:<br>
-<a href="https://codepen.io/philtim/pen/KrZmdN">https://codepen.io/philtim/pen/KrZmdN</a>
+<a href="https://codepen.io/philtim/pen/KrZmdN">https://codepen.io/philtim/pen/KrZmdN</a><br>
 Positionierung:<br>
 <a href="https://codepen.io/philtim/pen/GwyWBP">https://codepen.io/philtim/pen/GwyWBP</a>
 
@@ -38,7 +38,7 @@ Responsive Design heißt, alle (relevanten) Endgerätegrößen zu bedienen, wie 
 <b>Links im Video</b><br>
 Responsive Cat:<br>
 <a href="http://roxik.com/cat/">http://roxik.com/cat/</a>
-Responsive Design Check:<br>
+Responsive Design Check:<br><br>
 <a href="http://ami.responsivedesign.is/">http://ami.responsivedesign.is/</a>
 
 ### CSS Transition und Animation
@@ -51,9 +51,9 @@ Mit Übergängen (Transitions) und Animationen können in Webanwendungen wertvol
 
 <b>Links im Video</b><br>
 Eigene Bezierkurve zeichnen:<br>
-<a href="http://cubic-bezier.com/">http://cubic-bezier.com/</a>
+<a href="http://cubic-bezier.com/">http://cubic-bezier.com/</a><br>
 CSS Transition Beispiel:<br>
-<a href="https://codepen.io/grausch/pen/XWWeZXW">https://codepen.io/grausch/pen/XWWeZXW</a>
+<a href="https://codepen.io/grausch/pen/XWWeZXW">https://codepen.io/grausch/pen/XWWeZXW</a><br>
 CSS Animationen:<br>
 <a href="https://codepen.io/ajerez/pen/EaEEOW">https://codepen.io/ajerez/pen/EaEEOW</a>
 
@@ -62,6 +62,7 @@ CSS Animationen:<br>
     <source src="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L04/05_Take_Aways.mp4" type="video/mp4"> 
     <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L04/05_Take_Aways.mp4">Zum Video</a>
 </video>
+
 
 * Komplex verkettete Selektoren ermöglichen es, spezifischere Auswahlpfade zu erstellen.
 * Elemente haben individuelle Positionen und Flussverhalten, die manipuliert werden können.
