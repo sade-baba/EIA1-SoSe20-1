@@ -9,7 +9,7 @@
 Man kann die grundlegenden CSS-Selektoren, die in der letzten Lektion vorgestellt wurden, auch verketten, um komplexere Selektionen zu machen. So können entweder einzelne, spezielle Elemente viel konkreter aufgegriffen oder nur ganz bestimmte Gruppen oder Folgen von Elementen selektiert werden. Mit Pseudoklassen und -elementen können auch Elemente in ganz bestimmten Zuständen und Positionen angewählt werden, wie zum Beispiel ein Link beim Herüberfahren mit der Maus („hovern“).
 
 <b>Links im Video</b><br>
-https://flukeout.github.io
+<a href="https://flukeout.github.io">https://flukeout.github.io</a>
 
 ### Positionierung, Flussverhalten und Layout
 <video controls width="100%"> 
@@ -23,9 +23,9 @@ Für differenziertere Layouts kann man sich Hilfsmitteln wie Grid oder Flexbox b
 
 <b>Links im Video</b><br>
 Float:<br>
-https://codepen.io/philtim/pen/KrZmdN
+<a href="https://codepen.io/philtim/pen/KrZmdN">https://codepen.io/philtim/pen/KrZmdN</a>
 Positionierung:<br>
-https://codepen.io/philtim/pen/GwyWBP
+<a href="https://codepen.io/philtim/pen/GwyWBP">https://codepen.io/philtim/pen/GwyWBP</a>
 
 ### Responsive Design
 <video controls width="100%"> 
@@ -37,9 +37,9 @@ Responsive Design heißt, alle (relevanten) Endgerätegrößen zu bedienen, wie 
 
 <b>Links im Video</b><br>
 Responsive Cat:<br>
-http://roxik.com/cat/
+<a href="http://roxik.com/cat/">http://roxik.com/cat/</a>
 Responsive Design Check:<br>
-http://ami.responsivedesign.is/
+<a href="http://ami.responsivedesign.is/">http://ami.responsivedesign.is/</a>
 
 ### CSS Transition und Animation
 <video controls width="100%"> 
@@ -51,11 +51,11 @@ Mit Übergängen (Transitions) und Animationen können in Webanwendungen wertvol
 
 <b>Links im Video</b><br>
 Eigene Bezierkurve zeichnen:<br>
-http://cubic-bezier.com/
+<a href="http://cubic-bezier.com/">http://cubic-bezier.com/</a>
 CSS Transition Beispiel:<br>
-https://codepen.io/grausch/pen/XWWeZXW
+<a href="https://codepen.io/grausch/pen/XWWeZXW">https://codepen.io/grausch/pen/XWWeZXW</a>
 CSS Animationen:<br>
-https://codepen.io/ajerez/pen/EaEEOW
+<a href="https://codepen.io/ajerez/pen/EaEEOW">https://codepen.io/ajerez/pen/EaEEOW</a>
 
 ### Take Aways
 <video controls width="100%"> 

@@ -12,7 +12,7 @@ Eine CSS-Anweisung besteht immer aus einem Selektor und der Deklaration, die aus
 
 <b>Links im Video</b><br>
 Übersicht von sämtlichen aktuellen CSS-Anweisungen mit Beispielen:<br>
-https://www.w3schools.com/css/
+<a href="https://www.w3schools.com/css/">https://www.w3schools.com/css/</a>
 
 ### Eigenschaften
 <video controls width="100%"> 
