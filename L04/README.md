@@ -39,8 +39,8 @@ Technisch gesehen bedeutet das, dass die Darstellung der Benutzeroberfläche zwa
 
 <b>Links im Video</b><br>
 Responsive Cat:<br>
-<a href="http://roxik.com/cat/">http://roxik.com/cat/</a>
-Responsive Design Check:<br><br>
+<a href="http://roxik.com/cat/">http://roxik.com/cat/</a><br>
+Responsive Design Check:<br>
 <a href="http://ami.responsivedesign.is/">http://ami.responsivedesign.is/</a>
 
 ### CSS Transition und Animation
