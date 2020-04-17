@@ -18,8 +18,9 @@ Man kann die grundlegenden CSS-Selektoren, die in der letzten Lektion vorgestell
 </video>
 
 Aufgrund der vielen verschiedenen Ausgabegeräte heutzutage kann das Thema der Positionierung sehr komplex werden, gewinnt aber gleichzeitig auch an Wichtigkeit. 
-Die Positionierung der Elemente auf einer gerenderten Seite hat oft wenig mit der Position im DOM-Tree zu tun. Das Flussverhalten beschreibt das Verhalten der Elemente im Textfluss, sodass ein Element beispielsweise von den nachfolgenden Elementen in einer Zeile umflossen werden kann oder einen Zeilenumbruch bewirkt. Dieser Textfluss kann über Float und die Positionierung auch individuell manipuliert werden.
-Für differenziertere Layouts kann man sich Hilfsmitteln wie Grid oder Flexbox bedienen.
+Die Positionierung der Elemente auf einer gerenderten Seite hat oft wenig mit der Position im DOM-Tree zu tun.<br>
+Das Flussverhalten beschreibt das Verhalten der Elemente im Textfluss, sodass ein Element beispielsweise von den nachfolgenden Elementen in einer Zeile umflossen werden kann oder einen Zeilenumbruch bewirkt. Dieser Textfluss kann über Float und die Positionierung auch individuell manipuliert werden.<br>
+Für differenziertere Layouts kann man Hilfsmittel wie Grid oder Flexbox hinzunehmen.
 
 <b>Links im Video</b><br>
 Float:<br>
@@ -33,7 +34,8 @@ Positionierung:<br>
     <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L04/03_Responsive_Design.mp4">Zum Video</a>
 </video>
 
-Responsive Design heißt, alle (relevanten) Endgerätegrößen zu bedienen, wie Smartphones, Laptops, Tablets, Bildschirme… Technisch gesehen bedeutet das, dass die Darstellung der Benutzeroberfläche zwar an unterschiedliche Ausgabegeräte angepasst wird, die Datenbasis bleibt jedoch gleich — konzeptionell ist auch das Gleichbleiben der semantischen Datenbasis wichtig. Dieses Anpassen kann adaptiv (stufenweise) oder responsive (stufenlos) passieren, zum Beispiel über Breakpoints und Mediaqueries oder flexible Größen- und Positionierungsanweisungen.
+Responsive Design heißt, alle (relevanten) Endgerätegrößen zu bedienen, wie Smartphones, Laptops, Tablets, Bildschirme…<br>
+Technisch gesehen bedeutet das, dass die Darstellung der Benutzeroberfläche zwar an unterschiedliche Ausgabegeräte angepasst wird, die Datenbasis bleibt jedoch gleich — konzeptionell ist auch das Gleichbleiben der semantischen Datenbasis wichtig. Dieses Anpassen kann <b>adaptiv</b>(stufenweise) oder <b>responsive</b> (stufenlos) passieren, zum Beispiel über Breakpoints und Mediaqueries oder flexible Größen- und Positionierungsanweisungen.
 
 <b>Links im Video</b><br>
 Responsive Cat:<br>
@@ -47,7 +49,7 @@ Responsive Design Check:<br><br>
     <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L04/04_CSS_Transition_und_Animation.mp4">Zum Video</a>
 </video>
 
-Mit Übergängen (Transitions) und Animationen können in Webanwendungen wertvolle Effekte hinzugefügt werden, die ein Design lebendig und flüssig wirken lassen. Durch Animationen lassen sich sogar kleine Bewegtbilder individuell erstellen.
+Mit <b>Übergängen</b> (Transitions) und <b>Animationen</b> können in Webanwendungen wertvolle Effekte hinzugefügt werden, die ein Design lebendig und flüssig wirken lassen. Durch Animationen lassen sich sogar kleine Bewegtbilder individuell erstellen.
 
 <b>Links im Video</b><br>
 Eigene Bezierkurve zeichnen:<br>
@@ -62,7 +64,6 @@ CSS Animationen:<br>
     <source src="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L04/05_Take_Aways.mp4" type="video/mp4"> 
     <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L04/05_Take_Aways.mp4">Zum Video</a>
 </video>
-
 
 * Komplex verkettete Selektoren ermöglichen es, spezifischere Auswahlpfade zu erstellen.
 * Elemente haben individuelle Positionen und Flussverhalten, die manipuliert werden können.

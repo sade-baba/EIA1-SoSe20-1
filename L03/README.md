@@ -7,7 +7,7 @@
     <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L03/01_Einstieg_in_CSS.mp4">Zum Video</a>
 </video>
 
-CSS (Abkürzung für Cascading Style Sheets) ist eine Gestaltungssprache, mit der Webanwendungen visuell angepasst werden können. CSS-Anweisungen können auf drei Arten eingebunden werden: inline, was aufgrund der schwierigen Pflege und Unübersichtlichkeit nicht zu empfehlen ist, als Style-Tag im Head, was aufgrund der komplizierten Pflege ebenfalls nur bedingt empfohlen wird, oder als externes CSS-Stylesheet, was im Head des HTML-Dokuments verlinkt ist.
+CSS (Abkürzung für Cascading Style Sheets) ist eine Gestaltungssprache, mit der Webanwendungen visuell angepasst werden können. CSS-Anweisungen können auf drei Arten eingebunden werden: <b>inline</b>, was aufgrund der schwierigen Pflege und Unübersichtlichkeit nicht zu empfehlen ist, als <b>Style-Tag im Head</b>, was aufgrund der komplizierten Pflege ebenfalls nur bedingt empfohlen wird, oder als <b>externes CSS-Stylesheet</b>, was im Head des HTML-Dokuments verlinkt ist.<br>
 Eine CSS-Anweisung besteht immer aus einem Selektor und der Deklaration, die aus Eigenschaft und Wert besteht.
 
 <b>Links im Video</b><br>
@@ -29,7 +29,8 @@ Eigenschaften stehen immer in Abhängigkeit zu dem entsprechenden Element, sodas
     <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L03/03_CSS_Selektoren.mp4">Zum Video</a>
 </video>
 
-Um CSS-Anweisungen für bestimmte Elemente in einem HTML-Dokument zu schreiben, kann man mithilfe von Selektoren auf ein oder mehrere Elemente zugreifen. Es gibt verschiedene Arten von Selektoren: die drei Haupt-Selektoren sind <b>Element-Selektoren</b> (gebildet aus dem Tag-Namen), <b>ID-Selektoren</b> (wirken sich auf Elemente aus, die mit einer eindeutigen ID versehen wurden) und <b>Klassen-Selektoren</b> (ermöglichen die Auswahl mehrerer HTML-Elemente, auf die mit der Formatierung zugegriffen werden soll).
+Um CSS-Anweisungen für bestimmte Elemente in einem HTML-Dokument zu schreiben, kann man mithilfe von Selektoren auf ein oder mehrere Elemente zugreifen.<br>
+Es gibt verschiedene Arten von Selektoren: die drei Haupt-Selektoren sind <b>Element-Selektoren</b> (gebildet aus dem Tag-Namen), <b>ID-Selektoren</b> (wirken sich auf Elemente aus, die mit einer eindeutigen ID versehen wurden) und <b>Klassen-Selektoren</b> (ermöglichen die Auswahl mehrerer HTML-Elemente, auf die mit der Formatierung zugegriffen werden soll).
 
 ### Kaskadierung und Vererbung
 <video controls width="100%"> 
