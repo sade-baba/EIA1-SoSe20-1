@@ -1,8 +1,5 @@
-# Protokoll Meeting
-
-**Wochentag, 01.01.2020 11:30 Uhr**
-
-Protokol führte: [HIER GITHUB NUTZERNAME EINTRAGEN](https://github.com/LINK-ZU-GITHUB-PROFIL)
+# FAQ 
+Aus dem Review Meeting vom XX.XX.2020
 
 
 ## Topic A
