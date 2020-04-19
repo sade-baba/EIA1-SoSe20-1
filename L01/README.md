@@ -12,12 +12,13 @@ Bevor wir in den nächsten Sessions die Technologien CSS und TypeScript eintauch
 
 ## Aufgabe 1.1
 
-Erstellen Sie mit dem vorgegebenen Material (im Ordner /images und /assets) eine Portfolio-Website.
+Erstellen Sie mit dem vorgegebenen Material (im Ordner [/assets](https://github.com/gabriel-rausch/EIA1-SoSe20/tree/master/L01/assets)) eine Portfolio-Website (also eine einfach HTML-Website, die ein fiktives / ihr Portfolio von bisherigen Arbeiten präsentiert). Es soll eine HTML-Seite erstellt werden, die verschiedene Bilder (foto1, foto2, foto3, foto4 aus dem Unterordner "foto" von dem Ordner "assets") /Videos (clip1, clip2, clip3, clip4 aus dem Unterordner "animation" von dem Ordner "assets") präsentiert. Eine kleine Unteraufgabe: bei Klick auf das Foto1 soll eine neue Seite geöffnet werden und das Foto1_Big dargestellt werden.
 
 ## Aufgabe 1.2
 
-Im nächsten Schritt ergänzen Sie die Portfolio-Website. Sie können dafür bestehende Arbeiten von Ihnen nutzten (falls nicht vorhanden, dann erstellen Sie sich Dummy-Inhalte aus lizenzfreien Quellen).
-Darüberhinaus sollten weitere HTML-Dokumente erstellt werden, um folgende Seitenstruktur zu schaffen:
+Im nächsten Schritt ergänzen Sie die Portfolio-Website mit eigenen Inhalten. Sie können dafür bestehende Arbeiten von Ihnen nutzten (falls nicht vorhanden, dann erstellen Sie sich Dummy-Inhalte aus lizenzfreien Quellen, wie pixabay). Ersetzen Sie also die Platzhalterinhalte aus der Aufgabe 1.1 mit eigenem Bild- und Videomaterial.
+
+Neben der Portfolio-Seite sollten weitere HTML-Dokumente erstellt werden, um folgende Seitenstruktur zu schaffen:
 
 1. Seite "Portfolio": hier werden Arbeiten von Ihnen präsentiert
 2. Seite "About Me": ein kurzer Steckbrief zu Ihrer Person (hier können Sie natürlich den Steckbrief aus der Kursseite als Basis nutzten bzw. Teile daraus kopieren)
