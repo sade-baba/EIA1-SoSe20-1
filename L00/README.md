@@ -31,4 +31,4 @@ Starten Sie mit ein paar "Hygiene-Aufgaben", damit Sie arbeitsfähig werden und 
     7. Auf der EIA1-Kursseite wird jetzt Ihr Profilbild und Ihr Steckbrief in einem Fensterchen angezeigt.
 
 
-### Aufgabe bis Dienstag 22.10. 18:00 Uhr
+### Aufgabe bis Freitag, 24. April 2020
