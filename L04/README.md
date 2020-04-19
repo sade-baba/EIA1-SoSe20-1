@@ -6,9 +6,10 @@
     <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L04/01_CSS_Komplexe_Selektoren.mp4">Zum Video</a>
 </video>
 
-Man kann die grundlegenden CSS-Selektoren, die in der letzten Lektion vorgestellt wurden, auch verketten, um komplexere Selektionen zu machen. So können entweder einzelne, spezielle Elemente viel konkreter aufgegriffen oder nur ganz bestimmte Gruppen oder Folgen von Elementen selektiert werden. Mit Pseudoklassen und -elementen können auch Elemente in ganz bestimmten Zuständen und Positionen angewählt werden, wie zum Beispiel ein Link beim Herüberfahren mit der Maus („hovern“).
+Man kann die grundlegenden CSS-Selektoren, die in der letzten Lektion vorgestellt wurden, auch verketten, um komplexere Selektionen zu machen. So kann entweder auf einzelne, spezielle Elemente konkret zugegriffen oder auf nur ganz bestimmte Gruppen oder Folgen von Elementen selektiert werden. Mit Pseudoklassen können auch Elemente in ganz bestimmten Zuständen manipuliert werden, wie zum Beispiel bei einem Link der Zustand des Herüberfahrens mit der Maus („hovern“).
 
-<b>Links im Video</b><br>
+**Links im Video**
+
 <a href="https://flukeout.github.io">https://flukeout.github.io</a>
 
 ### Positionierung, Flussverhalten und Layout
@@ -17,15 +18,21 @@ Man kann die grundlegenden CSS-Selektoren, die in der letzten Lektion vorgestell
     <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L04/02_CSS_Flussverhalten_Positionierung.mp4">Zum Video</a>
 </video>
 
-Aufgrund der vielen verschiedenen Ausgabegeräte heutzutage kann das Thema der Positionierung sehr komplex werden, gewinnt aber gleichzeitig auch an Wichtigkeit. 
-Die Positionierung der Elemente auf einer gerenderten Seite hat oft wenig mit der Position im DOM-Tree zu tun.<br>
-Das Flussverhalten beschreibt das Verhalten der Elemente im Textfluss, sodass ein Element beispielsweise von den nachfolgenden Elementen in einer Zeile umflossen werden kann oder einen Zeilenumbruch bewirkt. Dieser Textfluss kann über Float und die Positionierung auch individuell manipuliert werden.<br>
-Für differenziertere Layouts kann man Hilfsmittel wie Grid oder Flexbox hinzunehmen.
+Aufgrund der vielen verschiedenen Ausgabegeräte kann das Thema der Positionierung sehr komplex werden, in diesem Video wurden aber die grundlegenden Herangehensweisen erklärt.
+Die Positionierung der Elemente auf einer gerenderten Seite hat oft wenig mit der Position im DOM-Tree zu tun.
 
-<b>Links im Video</b><br>
-Float:<br>
-<a href="https://codepen.io/philtim/pen/KrZmdN">https://codepen.io/philtim/pen/KrZmdN</a><br>
-Positionierung:<br>
+Das Flussverhalten beschreibt das Verhalten der Elemente im Textfluss, sodass ein Element beispielsweise von den nachfolgenden Elementen in einer Zeile umflossen werden kann oder einen Zeilenumbruch bewirkt. Dieser Textfluss kann über Float und die Positionierung auch individuell manipuliert werden.
+
+Für differenziertere Seiten-Arrangements kann man Eigenschaften, wie Grid oder Flexbox, nutzen.
+
+**Links im Video**
+
+Float:
+
+<a href="https://codepen.io/philtim/pen/KrZmdN">https://codepen.io/philtim/pen/KrZmdN</a>
+
+Positionierung:
+
 <a href="https://codepen.io/philtim/pen/GwyWBP">https://codepen.io/philtim/pen/GwyWBP</a>
 
 ### Responsive Design
@@ -34,13 +41,20 @@ Positionierung:<br>
     <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L04/03_Responsive_Design.mp4">Zum Video</a>
 </video>
 
-Responsive Design heißt, alle (relevanten) Endgerätegrößen zu bedienen, wie Smartphones, Laptops, Tablets, Bildschirme…<br>
-Technisch gesehen bedeutet das, dass die Darstellung der Benutzeroberfläche zwar an unterschiedliche Ausgabegeräte angepasst wird, die Datenbasis bleibt jedoch gleich — konzeptionell ist auch das Gleichbleiben der semantischen Datenbasis wichtig. Dieses Anpassen kann <b>adaptiv</b> (stufenweise) oder <b>responsive</b> (stufenlos) passieren, zum Beispiel über Breakpoints und Mediaqueries oder flexible Größen- und Positionierungsanweisungen.
+Responsive Design heißt, alle (relevanten) Endgerätegrößen zu bedienen, wie Smartphones, Laptops, Tablets, Bildschirme...
 
-<b>Links im Video</b><br>
-Responsive Cat:<br>
-<a href="http://roxik.com/cat/">http://roxik.com/cat/</a><br>
-Responsive Design Check:<br>
+Technisch gesehen bedeutet Responsive Design im Web-Kontext, dass die Darstellung der Benutzeroberfläche zwar an unterschiedliche Ausgabegeräte angepasst wird, die Datenbasis bleibt jedoch gleich. Konzeptionell bedeutet Responsive Design, dass eine interaktive Anwendung in möglichst vielen (relevanten) Anwendungsszenarien (am Schreibtisch, unterwegs im Bus usw...) genutzt werden kann. 
+
+In CSS lässt sich eine **adaptive** (stufenweise) oder **responsive** (stufenlose) Darstellung beispielweise durch Breakpoints und Mediaqueries oder flexible Größen- und Positionierungsanweisungen realisieren.
+
+**Links im Video**
+
+Responsive Cat:
+
+<a href="http://roxik.com/cat/">http://roxik.com/cat/</a>
+
+Responsive Design Check:
+
 <a href="http://ami.responsivedesign.is/">http://ami.responsivedesign.is/</a>
 
 ### CSS Transition und Animation
@@ -49,15 +63,21 @@ Responsive Design Check:<br>
     <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L04/04_CSS_Transition_und_Animation.mp4">Zum Video</a>
 </video>
 
-Mit <b>Übergängen</b> (Transitions) und <b>Animationen</b> können in Webanwendungen wertvolle Effekte hinzugefügt werden, die ein Design lebendig und flüssig wirken lassen. Durch Animationen lassen sich sogar kleine Bewegtbilder individuell erstellen.
+Mit **Übergängen** (Transitions) und **Animationen** können in Webanwendungen zeitbasierte Effekte genutzt werden, die ein Design lebendig und flüssig wirken lassen oder dem Nutzer auf narrativer Ebene den Interaktionsfluss beschreibt. Die Animation von CSS Eigenschaften lässt sich durch viele Parameter steuern, bspw. auch durch die Definition der Beschleunigung der Animation.
 
-<b>Links im Video</b><br>
-Eigene Bezierkurve zeichnen:<br>
-<a href="http://cubic-bezier.com/">http://cubic-bezier.com/</a><br>
-CSS Transition Beispiel:<br>
-<a href="https://codepen.io/grausch/pen/XWWeZXW">https://codepen.io/grausch/pen/XWWeZXW</a><br>
-CSS Animationen:<br>
+**Links im Video**
+
+CSS Transition Beispiel:
+
+<a href="https://codepen.io/grausch/pen/XWWeZXW">https://codepen.io/grausch/pen/XWWeZXW</a>
+
+CSS Animationen:
+
 <a href="https://codepen.io/ajerez/pen/EaEEOW">https://codepen.io/ajerez/pen/EaEEOW</a>
+
+Eigene Bezierkurve zeichnen:
+
+<a href="http://cubic-bezier.com/">http://cubic-bezier.com/</a>
 
 ### Take Aways
 <video controls width="100%"> 
