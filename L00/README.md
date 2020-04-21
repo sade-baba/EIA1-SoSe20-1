@@ -46,3 +46,17 @@ Starten Sie mit ein paar "Hygiene-Aufgaben", damit Sie arbeitsfähig werden und 
 ### Aufgabe bis Sonntag, 26. April 2020, 18:00 Uhr
 
 Ziel der Aufgabe: Sie sind arbeitsfähig, d.h. Sie haben sich auf der Kursseite registriert und kennen sich mit den grundlegensten Funktionen von GIT aus. Sie sind dazu in der Lage Ihre Abgaben auf GitHub hochzuladen und wissen wie Sie Ihre steckbrief.htm aktualisieren können.
+
+
+---
+
+
+## **?! _<small>Q&A</small>_** Fragen und Antworten
+(die Publikation der Zusammenfassung erfolgt nach dem Q&A Termin)
+
+
+### Erste Frage?
+Lorem labore cillum mollit pariatur reprehenderit dolor laboris reprehenderit dolor sit officia ea non. Lorem reprehenderit exercitation labore eiusmod aute do nostrud officia aute proident sunt. Labore non tempor aliqua voluptate. Exercitation culpa officia ut aliqua nostrud laborum irure est. Minim eu sunt culpa adipisicing laborum consectetur aliqua quis.
+
+### Zweite Frage?
+Mollit aliquip veniam sit eiusmod tempor anim ipsum tempor. Aliqua sunt voluptate ea dolor. Nulla est mollit consectetur cupidatat ut cillum ipsum minim. Est ex et nulla laborum fugiat dolore. Aliquip laboris sint exercitation commodo dolor sint mollit qui sunt ipsum fugiat occaecat id enim.

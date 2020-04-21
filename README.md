@@ -13,7 +13,7 @@
 - Grundlagen HTML
 - Semantische Struktur, DOM
 
-#### [**29 _Apr_** Q&A zu #01](L01/QnA)
+#### [**29 _Apr_** Q&A zu #01](L01/#-qa-fragen-und-antworten)
 
 ---
 
@@ -21,7 +21,7 @@
 - HTML5 Familie
 - Multimediale Inhalte, Audio, Video
 
-#### [**06 _Mai_** Q&A zu #02](L02/QnA)
+#### [**06 _Mai_** Q&A zu #02](L02/#-qa-fragen-und-antworten)
 
 #### [**08 _Mai_** Praktikum zu Aufgabe #02](L02/#a--aufgabe-02)
 
@@ -34,7 +34,7 @@
 - Kaskadierung und Vererbung
 - CSS Box Model und Maßeinheiten
 
-#### [**13 _Mai_** Q&A zu #03](L03/QnA)
+#### [**13 _Mai_** Q&A zu #03](L03/#-qa-fragen-und-antworten)
 
 #### [**15 _Mai_** Praktikum zu Aufgabe #03](L03/#a--aufgabe-03)
 
@@ -47,6 +47,6 @@
 - Responsive Design
 - Transition und Animation
 
-#### [**20 _Mai_** Q&A zu #04](L04/QnA)
+#### [**20 _Mai_** Q&A zu #04](L04/#-qa-fragen-und-antworten)
 
 #### [**22 _Mai_** Praktikum zu Aufgabe #04](L04/#a--aufgabe-04)
