@@ -1,7 +1,6 @@
 # KickOff Meeting 
-Vom 22.04.2020
+__Vom 22.04.2020__
 
-## **! _---_** Über diesen Kurs
 
 Die Vorlesungen und Praktika zu *Entwicklung Interaktiver Anwendungen* für den Studiengang MKB wird von Prof. Dr. Gabriel Rausch in Zusammenarbeit mit den EIA2- und GIS-Kollegen Prof. Dr. Norbert Schnell, Prof. Jirka Dell'Oro-Friedl und Prof. Dr. Stephanie Heintz, Lukas Scheuerle und Andreas Reich zusammengestellt.
 
