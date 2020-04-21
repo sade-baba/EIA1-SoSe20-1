@@ -34,7 +34,7 @@ Starten Sie mit ein paar "Hygiene-Aufgaben", damit Sie arbeitsfähig werden und 
 
 3. Fügen Sie ihren Steckbrief auf der EIA1-Kursseite ein (Link siehe DM-Intranet), dafür gehen Sie wie folgt vor:
 
-    1. [Steckbrief.zip](Steckbrief-Vorlage) herunterladen.
+    1. [Steckbrief-Vorlage](Steckbrief.zip) herunterladen.
     2. Dateien mit eigenen Inhalten ergänzen (die Dateinamen, wie sie in der Vorlage definiert sind, dürfen nicht verändert werden! D.h. die HTML Datei **muss** __steckbrief.htm__ heißen, das Profilbild muss eine JPG-Datei sein und __portrait.jpg__ heißen, beide Dateinamen mit Kleinbuchstaben).
     3. Ein neue Github Repository mit dem Namen EIA1-SoSe20 erstellen, dann lokal die Dateien zu einem neuen Github Repository hinzufügen und auf Github in das erstelle Repository pushen (Anleitung dazu siehe Video "Vorbereitung / Tools").
     4. Jetzt in den Einstellungen vom Github Repository die Inhalte in der Hosting-Umgebung **Github Pages** veröffentlichen.
