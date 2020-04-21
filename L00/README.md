@@ -44,3 +44,5 @@ Starten Sie mit ein paar "Hygiene-Aufgaben", damit Sie arbeitsfähig werden und 
 
 
 ### Aufgabe bis Sonntag, 26. April 2020, 18:00 Uhr
+
+Ziel der Aufgabe: Sie sind arbeitsfähig, d.h. Sie haben sich auf der Kursseite registriert und kennen sich mit den grundlegensten Funktionen von GIT aus. Sie sind dazu in der Lage Ihre Abgaben auf GitHub hochzuladen und wissen wie Sie Ihre steckbrief.htm aktualisieren können.

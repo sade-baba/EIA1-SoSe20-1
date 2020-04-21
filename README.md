@@ -15,8 +15,6 @@
 
 #### [**29 _Apr_** Q&A zu #01](L01/QnA)
 
-#### [**01 _Mai_** Praktikum zu Aufgabe #01](L01/#a--aufgabe-01)
-
 ---
 
 ### [**02 _#_** HTML5 Familie](L02)  
