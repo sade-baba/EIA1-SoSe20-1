@@ -9,8 +9,8 @@
 
 ### Vorbereitung / Tools
 <video controls width="100%"> 
-    <source src="https://scheuerle.net/lehre/gis/videos/00_Arbeitsumgebung.mp4" type="video/mp4"> 
-    <a href="https://scheuerle.net/lehre/gis/videos/00_Arbeitsumgebung.mp4">Zum Video</a>
+    <source src="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L00/00_Arbeitsumgebung.mp4" type="video/mp4"> 
+    <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L00/00_Arbeitsumgebung.mp4">Zum Video</a>
 </video>
 
 #### Tools / Software
