@@ -24,7 +24,7 @@
 
 ---
 
-## Aufgabe
+## **A _---_** Aufgabe #00
 
 Starten Sie mit ein paar "Hygiene-Aufgaben", damit Sie arbeitsfähig werden und bereit für den Kurs sind:
 

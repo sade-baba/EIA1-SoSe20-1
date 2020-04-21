@@ -6,15 +6,15 @@ tba
 ---
 
 
-## Aufgabe #01
+## **A _---_** Aufgabe #01
 
 Bevor wir in den nächsten Sessions die Technologien CSS und TypeScript eintauchen, sollten Sie hier **nur** mit den Grundlagen von HTML eine erste Website erstellen.
 
-## Aufgabe 1.1
+### Aufgabe 1.1
 
 Erstellen Sie mit dem vorgegebenen Material (im Ordner [/assets](https://github.com/gabriel-rausch/EIA1-SoSe20/tree/master/L01/assets)) eine Portfolio-Website (also eine einfach HTML-Website, die ein fiktives / ihr Portfolio von bisherigen Arbeiten präsentiert). Es soll eine HTML-Seite erstellt werden, die verschiedene Bilder (foto1, foto2, foto3, foto4 aus dem Unterordner "foto" von dem Ordner "assets") /Videos (clip1, clip2, clip3, clip4 aus dem Unterordner "animation" von dem Ordner "assets") präsentiert. Eine kleine Unteraufgabe: bei Klick auf das Foto1 soll eine neue Seite geöffnet werden und das Foto1_Big dargestellt werden.
 
-## Aufgabe 1.2
+### Aufgabe 1.2
 
 Im nächsten Schritt ergänzen Sie die Portfolio-Website mit eigenen Inhalten. Sie können dafür bestehende Arbeiten von Ihnen nutzten (falls nicht vorhanden, dann erstellen Sie sich Dummy-Inhalte aus lizenzfreien Quellen, wie pixabay). Ersetzen Sie also die Platzhalterinhalte aus der Aufgabe 1.1 mit eigenem Bild- und Videomaterial.
 
@@ -50,7 +50,7 @@ Folgende mögliche Werkzeuge können Sie bei der Erstellung der visuellen Kompon
 
 (*) HFU Lizenz aktuell leider nur an den stationären Arbeitsplätzen verfügbar
 
-## Abgabe bis Mittwoch 06.05. 18:00 Uhr als Link im Steckbrief der Kursseite
+### Abgabe bis Mittwoch 06.05. 18:00 Uhr als Link im Steckbrief der Kursseite
 
 Bitte erstellen Sie am Ende einen Link in Ihrer Steckbrief.htm, der auf das Ergebnis (bspw. nutzername.github.io/EIA1-Repository/Aufgabe_1) verweist.
 

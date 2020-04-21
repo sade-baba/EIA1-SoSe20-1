@@ -4,7 +4,7 @@
 
 #### [**22 _Apr_** KickOff Meeting](L00/KickOff)
 
-#### [**24 _Apr_** Workshop](L00/#aufgabe)
+#### [**24 _Apr_** Q&A #00 und Praktikum zu Aufgabe #00](L00/#a--aufgabe-00)
 
 ---
 
@@ -13,9 +13,9 @@
 - Grundlagen HTML
 - Semantische Struktur, DOM
 
-#### [**29 _Apr_** Review Meeting #01](L01/FAQ)
+#### [**29 _Apr_** Q&A zu #01](L01/QnA)
 
-#### [**01 _Mai_** Workshop](L01/#aufgabe)
+#### [**01 _Mai_** Praktikum zu Aufgabe #01](L01/#a--aufgabe-01)
 
 ---
 
@@ -23,9 +23,9 @@
 - HTML5 Familie
 - Multimediale Inhalte, Audio, Video
 
-#### [**06 _Mai_** Review Meeting #02](L02/FAQ)
+#### [**06 _Mai_** Q&A zu #02](L02/QnA)
 
-#### [**08 _Mai_** Workshop](L02/#aufgabe)
+#### [**08 _Mai_** Praktikum zu Aufgabe #02](L02/#a--aufgabe-02)
 
 ---
 
@@ -36,9 +36,9 @@
 - Kaskadierung und Vererbung
 - CSS Box Model und Maßeinheiten
 
-#### [**13 _Mai_** Review Meeting #03](L03/FAQ)
+#### [**13 _Mai_** Q&A zu #03](L03/QnA)
 
-#### [**15 _Mai_** Workshop](L03/#aufgabe)
+#### [**15 _Mai_** Praktikum zu Aufgabe #03](L03/#a--aufgabe-03)
 
 ---
 
@@ -49,6 +49,6 @@
 - Responsive Design
 - Transition und Animation
 
-#### [**20 _Mai_** Review Meeting #04](L04/FAQ)
+#### [**20 _Mai_** Q&A zu #04](L04/QnA)
 
-#### [**22 _Mai_** Workshop](L04/#aufgabe)
+#### [**22 _Mai_** Praktikum zu Aufgabe #04](L04/#a--aufgabe-04)
