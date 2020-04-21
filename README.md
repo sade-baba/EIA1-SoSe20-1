@@ -2,7 +2,7 @@
 - WWW, Client/Server, HTTP, W3C
 - Entwicklungsumgebung
 
-#### [**22 _Apr_** KickOff Meeting](L00/FAQ)
+#### [**22 _Apr_** KickOff Meeting](L00/KickOff)
 
 #### [**24 _Apr_** Workshop](L00/#aufgabe)
 
