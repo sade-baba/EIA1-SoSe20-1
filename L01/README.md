@@ -1,7 +1,23 @@
 ## **01 _#_** Einstieg HTML
 
 
-tba
+### HTML Basics
+<video controls width="100%"> 
+    <source src="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L01/GIS-EIA1-HTML-Basics.mp4" type="video/mp4"> 
+    <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L01/GIS-EIA1-HTML-Basics.mp4">Zum Video</a>
+</video>
+
+### HTML Syntax
+<video controls width="100%"> 
+    <source src="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L01/GIS-EIA1-HTML-Syntax.mp4" type="video/mp4"> 
+    <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L01/GIS-EIA1-HTML-Syntax.mp4">Zum Video</a>
+</video>
+
+
+### Bilder Verweise / Pfade
+<iframe src="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L01/GIS-EIA1-HTML-Bilder-Verweise.pdf" width="100%" height="400px" style="border:none"></iframe>
+
+Den Foliensatz zu "Bilder Verweise / Pfade" können Sie auch [hier](https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L01/GIS-EIA1-HTML-Bilder-Verweise.pdf) als PDF herunterladen
 
 ---
 
