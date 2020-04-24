@@ -14,6 +14,17 @@
 </video>
 
 
+**Links zum Thema**
+
+[W3C](https://www.w3.org)
+
+[https://www.w3schools.com/html/](https://www.w3schools.com/html/)
+
+[MDN - MozillaDeveloper Network](https://developer.mozilla.org/de/docs/Learn/HTML)
+
+[HTML Cheatsheet](Cheatsheet_HTML.pdf)
+
+
 ### Bilder Verweise / Pfade
 <iframe src="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L01/GIS-EIA1-HTML-Bilder-Verweise.pdf" width="100%" height="400px" style="border:none"></iframe>
 
@@ -30,7 +41,7 @@ Erstellen Sie mit dem vorgegebenen Material (im Ordner [/assets](https://github.
 
 Es soll eine HTML-Seite erstellt werden, die verschiedene Bilder (foto1, foto2, foto3, foto4 aus dem Unterordner "foto" von dem Ordner "assets") /Videos (clip1, clip2, clip3, clip4 aus dem Unterordner "animation" von dem Ordner "assets") präsentiert. Eine kleine Unteraufgabe: bei Klick auf das Foto1 soll eine neue Seite geöffnet werden und das Foto1_Big dargestellt werden.
 
-### Abgabe erfolgt nach Fertigstellung von Aufgabe #02 zum 10. Mai um 18:00 in Ihrem Steckbrief bzw. auf der Kursseite.
+### Abgabe erfolgt nach Fertigstellung von **Aufgabe #02** zum 10. Mai um 18:00 in Ihrem Steckbrief bzw. auf der Kursseite.
 
 
 ---
