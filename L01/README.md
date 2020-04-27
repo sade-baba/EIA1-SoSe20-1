@@ -91,7 +91,7 @@ Um den Link des repositories zu generieren klickt man auf das jeweilige reposito
 
 Von [AnnetteWdm](https://github.com/AnnetteWdm)
 
-### Fragen zum Einführungsvideo
+## Fragen zum Einführungsvideo
 
 ### Was genau macht Git? 
 Git ist eine Arbeitsumgebung auf der Festplatte, die zur Versionsverwaltung von Projekten dient. 
@@ -108,7 +108,7 @@ Das W3C ist eine Organisation (Zusammenschluss von Experten), die die Richtlinie
 ### Was ist die aktuelle HTML Version?
 HTML 5.0
 
-### Fragen zur Aufgabe 00
+## Fragen zur Aufgabe 00
 
 ### Git Installation für Apple User?
 Für IOSCatalina: Binary Installer herunterladen um Git für IOS zu installieren
