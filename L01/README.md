@@ -50,7 +50,7 @@ Es soll eine HTML-Seite erstellt werden, die verschiedene Bilder (foto1, foto2, 
 ## **?! _<small>Q&A</small>_** Fragen und Antworten
 (die Zusammenfassung der Q&A-Session wurden von Teilnehmern geschrieben und nicht verändert)
 
-Von BG
+Von [BeateG](https://github.com/BeateG)
 
 ###	Was ist das W3C?
 = World Wide Web Consortium
@@ -87,7 +87,7 @@ Um den Link des repositories zu generieren klickt man auf das jeweilige reposito
 
 ---
 
-Von Annette
+Von [AnnetteWdm](https://github.com/AnnetteWdm)
 
 ### Fragen zum Einführungsvideo
 
