@@ -48,4 +48,30 @@ Es soll eine HTML-Seite erstellt werden, die verschiedene Bilder (foto1, foto2, 
 
 
 ## **?! _<small>Q&A</small>_** Fragen und Antworten
-(die Publikation der Zusammenfassung erfolgt nach dem Q&A Termin)
+(die Zusammenfassung der Q&A-Session wurden von Teilnehmern verfasst und ggf. angepasst und ergänzt)
+
+---
+
+Von [naominoller](https://github.com/naominoller)
+
+
+## Was ist das DOM?
+ 
+Das Document Object Model (kurz. DOM) ist in erster Linie ein abstraktes Objekt, welches hierarchisch die Eigenschaften, Werte und Verschachtelungen der einzelnen Elemente aufzeigt. Es repräsentiert den strukturierten Inhalt einer Website und bietet die Grundlage für das fertige Browserbild.
+ 
+## Was ist der Unterschied zwischen einem relativen und einem absoluten Pfad?
+ 
+Der absolute Pfad kann bspw. auf eine externe URL verweisen, also auf eine Datei, welche nicht im gleichen Datei- oder Domainkontext liegt. Ein absoluter Pfad kann aber auch im selben Domainkontext liegen, dann wird auf die Datei absolut vom Domainurspung verwiesen (URL beginnt mit "/").
+ 
+Der relative Pfad hingegen nimmt Bezug auf einen Pfad relativ vom **Dokumentenursprung** im selben Domainkontext bzw. in der selben Dateistruktur (vereinfacht) liegt.
+
+Durch ".." kann in einem Pfad auf eine Pfad-Ebene höher gesprungen werden. Bspw. zeigt "videos/video1.mp4" auf eine Videodatei in einem Unterverzeichnis "videos", dagegen zeigt "../videos/video1.mp4" auf eine Datei, die eine Ebene höher in der Dateistruktur liegt und dort in einem Ordner "videos" liegt.
+
+Ein Pfad bildet im einfachsten Fall die Dateistruktur / Ordnerstruktur ab (diese Analogie ist für den Einstieg in die Webentwicklung vollkommen ausreichend). D.h. "https://domain.de/products/product1.html" zeigt auf eine HTML Datei (product1.html), die in einem Ordner "products" auf einem Server, der unter der Adresse domain.de erreichbar ist, liegt.
+ 
+## Was ist der Unterschied zwischen den zwei Grafikmodi retained und immediate?
+ 
+"retained mode“ = die Inhalte und Grafiken können über sichtbaren Bereich (hier Browserfenester) hinausgehen und verlustfrei skaliert werden; die Render Pipeline des Browers übernimmt das Neu-Rendern bei Positions- oder Transformationänderungen der Inhalte. HTML oder auch SVG werden vom Browser nach dem "retained mode" gerendert.
+ 
+„immediate mode“= nur die Inhalte im sichtbaren Bereich (im Viewport) werden gerendert -> ressourcenschonender, es können deutlich komplexere Visualisierungen gerendert werden. Dabei ist aber auch mehr Entwicklungsarbeit notwendig. Sämtliche Transformationsänderungen (bspw. das Skalieren eines Objekts) würde ohne neu-berechnen und neu-rendern des Viewports zu einer fehlerhaften Darstellung führen (bspw. Pixelartefakte beim Skalieren eines Objekts). Es gibt ein HTML-Element, das nach nach dem "immadiate mode" gerendert wird: der Canvas-Tag (wird im 2. Semester behandelt)
+ 
