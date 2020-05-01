@@ -55,11 +55,11 @@ Es soll eine HTML-Seite erstellt werden, die verschiedene Bilder (foto1, foto2, 
 Von [naominoller](https://github.com/naominoller)
 
 
-## Was ist das DOM?
+### Was ist das DOM?
  
 Das Document Object Model (kurz. DOM) ist in erster Linie ein abstraktes Objekt, welches hierarchisch die Eigenschaften, Werte und Verschachtelungen der einzelnen Elemente aufzeigt. Es repräsentiert den strukturierten Inhalt einer Website und bietet die Grundlage für das fertige Browserbild.
  
-## Was ist der Unterschied zwischen einem relativen und einem absoluten Pfad?
+### Was ist der Unterschied zwischen einem relativen und einem absoluten Pfad?
  
 Der absolute Pfad kann bspw. auf eine externe URL verweisen, also auf eine Datei, welche nicht im gleichen Datei- oder Domainkontext liegt. Ein absoluter Pfad kann aber auch im selben Domainkontext liegen, dann wird auf die Datei absolut vom Domainurspung verwiesen (URL beginnt mit "/").
  
@@ -69,7 +69,7 @@ Durch ".." kann in einem Pfad auf eine Pfad-Ebene höher gesprungen werden. Bspw
 
 Ein Pfad bildet im einfachsten Fall die Dateistruktur / Ordnerstruktur ab (diese Analogie ist für den Einstieg in die Webentwicklung vollkommen ausreichend). D.h. "https://domain.de/products/product1.html" zeigt auf eine HTML Datei (product1.html), die in einem Ordner "products" auf einem Server, der unter der Adresse domain.de erreichbar ist, liegt.
  
-## Was ist der Unterschied zwischen den zwei Grafikmodi retained und immediate?
+### Was ist der Unterschied zwischen den zwei Grafikmodi retained und immediate?
  
 "retained mode“ = die Inhalte und Grafiken können über sichtbaren Bereich (hier Browserfenester) hinausgehen und verlustfrei skaliert werden; die Render Pipeline des Browers übernimmt das Neu-Rendern bei Positions- oder Transformationänderungen der Inhalte. HTML oder auch SVG werden vom Browser nach dem "retained mode" gerendert.
  

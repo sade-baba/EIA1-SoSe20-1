@@ -73,11 +73,25 @@ Der Browser arbeitet mit verschiedenen Maßeinheiten, für den Anfang genügt da
 * Eigenschaften werden von Eltern- an Kinderelemente vererbt, können aber auch überschrieben werden.
 * Das CSS-Box-Model beschreibt verschiedene Abstandsmaße für Elemente.
 
+[CSS Cheatsheet](Cheatsheet_CSS.pdf)
+
 ---
 
 ## **A _---_** Aufgabe #03
 
-tba
+Die Portfolio-Website aus der letzten Aufgabe nun mit CSS ergänzt, um verschiedene Gestaltungsaspekte zu realisieren.
+
+Für dieses Projekt erstellen Sie einen Unterordner (bspw. /Aufgabe3) in Ihrem bestehenden EIA1-Git-Repository und erstellen Sie dort eine Kopie Ihres aktuellen Portfolios aus der vorherigen Aufgabe, an dem Sie nun weiterarbeiten werden.
+
+**Die Aufgabe ist erfüllt, wenn alle Anmerkungen des Kunden berücksichtigt wurden.**
+Kundenanmerkungen siehe [Anmerkungen](task_material/Anmerkungen.pdf)
+Designentwürfe als Orientierung siehe (Ordner Screenshots)[task_material/screenshots]
+
+
+## Abgabe bis Mittwoch 30.10. 18:00 Uhr
+__Nach Abgabe und Feedback sind Korrekturmöglichkeiten bis Freitag 1. November möglich__
+
+Bitte erstellen Sie am Anfang Ihres Steckbriefs einen Link, der auf das Ergebnis verweist.
 
 
 ---
