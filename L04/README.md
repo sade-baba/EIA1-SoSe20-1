@@ -94,7 +94,7 @@ Eigene Bezierkurve zeichnen:
 
 ## **A _---_** Aufgabe #04
 
-tba
+
 
 
 ---

@@ -79,19 +79,22 @@ Der Browser arbeitet mit verschiedenen Maßeinheiten, für den Anfang genügt da
 
 ## **A _---_** Aufgabe #03
 
-Die Portfolio-Website aus der letzten Aufgabe nun mit CSS ergänzt, um verschiedene Gestaltungsaspekte zu realisieren.
+Die Portfolio-Website aus der letzten Aufgabe wird nun mit CSS ergänzt, um verschiedene Gestaltungsaspekte zu realisieren.
 
 Für dieses Projekt erstellen Sie einen Unterordner (bspw. /Aufgabe3) in Ihrem bestehenden EIA1-Git-Repository und erstellen Sie dort eine Kopie Ihres aktuellen Portfolios aus der vorherigen Aufgabe, an dem Sie nun weiterarbeiten werden.
 
 **Die Aufgabe ist erfüllt, wenn alle Anmerkungen des Kunden berücksichtigt wurden.**
 Kundenanmerkungen siehe [Anmerkungen](task_material/Anmerkungen.pdf)
-Designentwürfe als Orientierung siehe (Ordner Screenshots)[task_material/screenshots]
+
+Designentwürfe als Orientierung siehe (Ordner "Screenshots")[https://github.com/gabriel-rausch/EIA1-SoSe20/tree/master/L03/task_material/screenshots]
+
+Grafikelemente für Untergrund und Pixel-Icon (im Ordner "Images")[https://github.com/gabriel-rausch/EIA1-SoSe20/tree/master/L03/task_material/images]
 
 
-## Abgabe bis Mittwoch 30.10. 18:00 Uhr
-__Nach Abgabe und Feedback sind Korrekturmöglichkeiten bis Freitag 1. November möglich__
+## Abgabe bis Sonntag 17. Mai, 18:00 Uhr
+__Nach Abgabe und Feedback sind Korrekturmöglichkeiten bis 19. Mai möglich__
 
-Bitte erstellen Sie am Anfang Ihres Steckbriefs einen Link, der auf das Ergebnis verweist.
+Bitte erstellen Sie einen Link in Ihrer Steckbrief HTM, der auf das Ergebnis verweist.
 
 
 ---
