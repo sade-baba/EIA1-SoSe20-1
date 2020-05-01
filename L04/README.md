@@ -93,7 +93,23 @@ Eigene Bezierkurve zeichnen:
 ---
 
 ## **A _---_** Aufgabe #04
+### CSS Greeting Cards - Stationsarbeit
 
+Bevor wir die Büchse der Pandora von TypeScript öffnen können Sie sich hier noch einmal in verschiedene Darstellungsaspekte mit HTML und CSS vertiefen.
+
+Auch wenn es dieses Jahr schwierig wird mit dem Reisen, die Urlaubspost dürfen Sie trotzdem schon einmal vorbereiten.
+Sie finden hier acht Einzel-Stationen, jeweils mit Start-Material und einer Aufgabenbeschreibung.
+**Station 1** ist für alle Pflicht. Darüberhinaus dürfen Sie sich vier Stationen Ihrer Wahl heraussuchen, die Sie arbeiten. Die Aufgabe ist also erfüllt, wenn Sie **insgesamt fünf Stationen** gelöst haben.
+
+(Zu den Stationen)[https://github.com/gabriel-rausch/EIA1-SoSe20/tree/master/L04/task_material]
+
+Sie werden auch erkennen, dass viele Bausteine in den Stationen ähnlich sind. Das Grundgerüst der Grußkarten, das Positionieren und Arrangieren von Elementen werden Sie hier wiederholend üben.
+
+Bearbeitung wie gehabt: als Unterordner in Ihrem Git Repository (bspw /Aufgabe4, hier dann weitere Unterordner /Station1 .../Station_X); das fertige Arbeitspaket wieder auf Github pushen und auf Ihrem Kursseiten-Steckbrief verlinken.
+
+## Abgabe von 4 Stationen bis Sonntag, 24. Mai, 18:00 Uhr.
+
+Die schönste Ihrer Grußkarte dürfen Sie auch gerne (als Link) an Kommilitonen oder Lehrende schicken (Jirka R. Dell'Oro-Friedl freut sich immer über Post) ;-)
 
 
 
