@@ -101,7 +101,9 @@ Auch wenn es dieses Jahr schwierig wird mit dem Reisen, die Urlaubspost dürfen 
 Sie finden hier acht Einzel-Stationen, jeweils mit Start-Material und einer Aufgabenbeschreibung.
 **Station 1** ist für alle Pflicht. Darüberhinaus dürfen Sie sich vier Stationen Ihrer Wahl heraussuchen, die Sie arbeiten. Die Aufgabe ist also erfüllt, wenn Sie **insgesamt fünf Stationen** gelöst haben.
 
-(Zu den Stationen)[https://github.com/gabriel-rausch/EIA1-SoSe20/tree/master/L04/task_material]
+[https://github.com/gabriel-rausch/EIA1-SoSe20/tree/master/L04/task_material](Zu den Stationen)
+
+[task_material](Zu den Stationen)
 
 Sie werden auch erkennen, dass viele Bausteine in den Stationen ähnlich sind. Das Grundgerüst der Grußkarten, das Positionieren und Arrangieren von Elementen werden Sie hier wiederholend üben.
 

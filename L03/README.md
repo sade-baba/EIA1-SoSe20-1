@@ -86,9 +86,9 @@ Für dieses Projekt erstellen Sie einen Unterordner (bspw. /Aufgabe3) in Ihrem b
 **Die Aufgabe ist erfüllt, wenn alle Anmerkungen des Kunden berücksichtigt wurden.**
 Kundenanmerkungen siehe [Anmerkungen](task_material/Anmerkungen.pdf)
 
-Designentwürfe als Orientierung siehe (Ordner "Screenshots")[https://github.com/gabriel-rausch/EIA1-SoSe20/tree/master/L03/task_material/screenshots]
+Designentwürfe als Orientierung siehe [https://github.com/gabriel-rausch/EIA1-SoSe20/tree/master/L03/task_material/screenshots](Ordner "Screenshots")
 
-Grafikelemente für Untergrund und Pixel-Icon (im Ordner "Images")[https://github.com/gabriel-rausch/EIA1-SoSe20/tree/master/L03/task_material/images]
+Grafikelemente für Untergrund und Pixel-Icon [https://github.com/gabriel-rausch/EIA1-SoSe20/tree/master/L03/task_material/images](im Ordner "Images")
 
 
 ## Abgabe bis Sonntag 17. Mai, 18:00 Uhr
