@@ -9,6 +9,51 @@
 
 ---
 
+### HTML Weiterführend
+<video controls width="100%"> 
+    <source src="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L02/02_HTML_Weiterfuehrend.mp4" type="video/mp4"> 
+    <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L02/02_HTML_Weiterfuehrend.mp4">Zum Video</a>
+</video>
+
+- [Elemente Übersicht](https://wiki.selfhtml.org/extensions/Selfhtml/example.php/Beispiel:HTML-Kategorien.html)
+- [W3C Validierer](http://validator.w3.org/)
+- [Elemente Liste](https://developer.mozilla.org/de/docs/Web/HTML/HTML5/HTML5_element_list)
+
+
+---
+
+### Inspektor und Browserunterschiede
+<video controls width="100%"> 
+    <source src="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L02/02_Inspektor_Browserunterschiede.mp4" type="video/mp4"> 
+    <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L02/02_Inspektor_Browserunterschiede.mp4">Zum Video</a>
+</video>
+
+- [caniuse](https://caniuse.com)
+
+---
+
+### Sie haben in dieser Lektion folgendes gelernt:
+- Sie haben verstanden wie Sie den Inspektor ihres Webbrowsers verwenden können (Rechtsklick + Element untersuchen)
+- Unterschiede zwischen Browsern
+- Sie sind mit der grundlegenden HTML5 Seitenstruktur vertraut
+  - Head/Body/Header/Main/Footer/Nav
+  - Logische Verschachtelung (Inline / Block)
+  - W3 Validierer
+- Sie haben sich mit den folgenden HTML5 Elementen vertraut gemacht
+  - header, main, footer
+  - section, aside, article
+  - table
+  - list
+  - form
+  - div
+  - Attribute / Eigenschaften: id, class, style, title, etc…
+- Sie kennen sich mit HTML Audio und Video aus
+  - gängige Audio- und Videoformate
+  - Internet Media Types (MIME)
+  - Datendurchsatz von Audio- und Videostreams
+
+---
+
 ## **A _---_** Aufgabe #02
 
 Diese Aufgabe baut auf die vorherige Aufgabe #01 auf.
