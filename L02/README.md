@@ -103,7 +103,6 @@ Bitte erstellen Sie nach Fertigstellung einen Link in Ihrer Steckbrief.htm, der 
 ## **?! _<small>Q&A</small>_** Fragen und Antworten
 (die Zusammenfassung der Q&A-Session wurden von Teilnehmern verfasst und ggf. angepasst und ergänzt)
 
----
 
 Von [olifabio](https://github.com/olifabio) als [PDF](QnA.pdf)
 
