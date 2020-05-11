@@ -1,4 +1,4 @@
-## **04 _#_** TypeScript
+## **05 _#_** TypeScript
 
 ### Einführung Skriptsprachen
 <video controls width="100%"> 

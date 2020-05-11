@@ -50,3 +50,15 @@
 #### [**20 _Mai_** Q&A zu #04](L04/#-qa-fragen-und-antworten)
 
 #### [**22 _Mai_** Praktikum zu Aufgabe #04](L04/#a--aufgabe-04)
+
+---
+
+### [**05 _#_** TypeScript](L05)
+
+- Skriptsprachen
+- Variablen, Wertzuweisungen, Datentypen
+- Zeichen- und mathematische Operatoren
+
+#### [**27 _Mai_** Q&A zu #05](L05/#-qa-fragen-und-antworten)
+
+#### [**29 _Mai_** Praktikum zu Aufgabe #05](L05/#a--aufgabe-05)
