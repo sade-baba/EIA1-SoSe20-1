@@ -99,7 +99,7 @@ Bevor wir die Büchse der Pandora von TypeScript öffnen können Sie sich hier n
 
 Auch wenn es dieses Jahr schwierig wird mit dem Reisen, die Urlaubspost dürfen Sie trotzdem schon einmal vorbereiten.
 Sie finden hier acht Einzel-Stationen, jeweils mit Start-Material und einer Aufgabenbeschreibung.
-**Station 1** ist für alle Pflicht. Darüberhinaus dürfen Sie sich vier Stationen Ihrer Wahl heraussuchen, die Sie arbeiten. Die Aufgabe ist also erfüllt, wenn Sie **insgesamt fünf Stationen** gelöst haben.
+**Station 1** ist für alle Pflicht. Darüberhinaus dürfen Sie sich vier Stationen Ihrer Wahl heraussuchen, die Sie bearbeiten. Die Aufgabe ist also erfüllt, wenn Sie **insgesamt fünf Stationen** gelöst haben.
 
 [Zu den Stationen](https://github.com/gabriel-rausch/EIA1-SoSe20/tree/master/L04/task_material)
 
