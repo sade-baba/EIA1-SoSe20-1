@@ -41,6 +41,8 @@ Um CSS-Anweisungen an bestimmte Elemente eines HTML-Dokument zu adressieren, kan
 
 Es gibt verschiedene Arten von Selektoren: die drei Haupt-Selektoren sind **Element-Selektoren** (gebildet aus dem Tag-Namen), **ID-Selektoren** (wirken sich auf Elemente aus, die mit einer eindeutigen ID versehen wurden) und **Klassen-Selektoren** (ermöglichen die Auswahl mehrerer HTML-Elemente, auf die mit der Formatierung zugegriffen werden soll).
 
+Kleine Anmerkung: auf einer Folie im Video hat sich ein Fehler eingeschlichen (8. Minute): Klassenselektoren werden natürlich mit einem "." eingeleitet.
+
 ### Kaskadierung und Vererbung
 <video controls width="100%"> 
     <source src="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L03/04_Kaskadierung_und_Vererbung.mp4" type="video/mp4"> 
