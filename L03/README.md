@@ -103,11 +103,23 @@ Bitte erstellen Sie einen Link in Ihrer Steckbrief HTM, der auf das Ergebnis ver
 
 
 ## **?! _<small>Q&A</small>_** Fragen und Antworten
-(die Publikation der Zusammenfassung erfolgt nach dem Q&A Termin)
+(die Zusammenfassung der Q&A-Session wurden von Teilnehmern verfasst und ggf. angepasst und ergänzt)
+
+Von [janzonca](https://github.com/janzonca)
 
 
-### Erste Frage?
-Lorem labore cillum mollit pariatur reprehenderit dolor laboris reprehenderit dolor sit officia ea non. Lorem reprehenderit exercitation labore eiusmod aute do nostrud officia aute proident sunt. Labore non tempor aliqua voluptate. Exercitation culpa officia ut aliqua nostrud laborum irure est. Minim eu sunt culpa adipisicing laborum consectetur aliqua quis.
+### Was ist CSS für einer Sprache?
+CSS ist eine Gestaltungssprache
 
-### Zweite Frage?
-Mollit aliquip veniam sit eiusmod tempor anim ipsum tempor. Aliqua sunt voluptate ea dolor. Nulla est mollit consectetur cupidatat ut cillum ipsum minim. Est ex et nulla laborum fugiat dolore. Aliquip laboris sint exercitation commodo dolor sint mollit qui sunt ipsum fugiat occaecat id enim.
+### Kann man sich die Namensvergabe von den Selektoren ausdenken?
+
+Den Selektor bzw. die ID oder die Klassen kann man sich ausdenken. Es gibt Herangehensweisen denen man folgen kann, aber dies ist für den Kurs vorerst nicht notwendig.
+
+### Wird das box model im head angegeben?
+Nein. Es wird im stylesheet angegeben. Es ist für jedes einzelne Element und nur für CSS relevant.
+
+### Sollen wir das Design aus der Vorlage übernehmen?
+Nein, das ist nicht zwingend notwendig. Es dient als Designvorlage. Das Design sollte zwar vom Aufbau gleich sein, allerdings darf man sich selbst kreativ ausleben. Wichtig ist, dass es ästhetisch sein soll.
+
+### Wie bekommt man einen Kreis in das Portfolio?
+Dafür gibt es verschiedene Varianten.  Durch HTML und CSS kann man probieren einen Kreis nachzubauen (aufwendige Variante) oder man kann mit Pixelgrafiken/Bildelemente arbeiten und diese einfügen.
