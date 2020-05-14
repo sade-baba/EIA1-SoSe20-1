@@ -54,6 +54,37 @@
     <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L05/L05_09_Take_Aways.mp4">Zum Video</a>
 </video>
 
+---
+
+### Einrichtung Typescript 
+<video controls width="100%"> 
+    <source src="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L05/L05_10_Einrichtung_Typescript.mp4" type="video/mp4"> 
+    <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L05/L05_10_Einrichtung_Typescript.mp4">Zum Video</a>
+</video>
+
+Denken Sie daran, immer wenn sie Ihren VSCode Editor öffnen, den BuildTask zu starten. Wenn Sie es automatisieren möchten, schauen sie eigenverantwortlich [hier](https://code.visualstudio.com/docs/editor/tasks) oder [hier](https://marketplace.visualstudio.com/search?term=Typescript%20Auto%20Compiler&target=VSCode&category=All%20categories&sortBy=Relevance).
+
+
+`Strg + Shift + B` für die Build Tasks oder über `Terminal > Buildaufgabe ausführen`. Wählen sie "watch/Überwachen" um bis Sie VSCode schließen die js Dateien immer übersetzt zu bekommen oder "make/Erstellen" um einmal das gesamte Projekt zu übersetzen.
+
+_Laden Sie die .js.map Dateien und selbstverständlich auch die .ts Dateien mit hoch._
+
+**Links im Video**
+
+- <a href="https://nodejs.org/">NodeJS</a>  
+- [TSLint Erweiterung](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
+- [Konfigurations Dateien (tsconfig & tslint)](https://github.com/hs-furtwangen/GIS-SoSe-2020/tree/master/config_files)
+
+**Terminal Befehle**
+- `npm -v`
+- `npm i -g typescript`
+- `npm i -g tslint`
+- `tsc --version`
+  - falls es dabei in Powershell Probleme gibt, Powershell als Administrator ausführen, den folgenden Befehl ausführen und mit J/Y bestätigen.  
+  `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine`
+
+
+
 
 ## **A _---_** Aufgabe #05
 
