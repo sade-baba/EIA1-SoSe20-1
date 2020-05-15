@@ -86,10 +86,36 @@ _Laden Sie die .js.map Dateien und selbstverständlich auch die .ts Dateien mit 
 
 
 
-## **A _---_** Aufgabe #05
+## **A _---_** Aufgabe #05 - Interaktive Infografik
 
-tba
+Als Vorbereitung für eine interaktive Infografik sollten Sie Emissionswerte berechnen. Die Berechnung erfolgt auf Skriptebene mit TypeSkript.
 
+Folgende Anforderungen an die Aufgabe:
+
+1. Die Emissionswerte von jeder Region soll als Text in der Browser-Konsole (console.log()) ausgegeben werden.
+
+2. Die Textausgabe soll die folgt formuliert sein:
+   "Die Emission von Europa ist: XXXXX kg CO2"
+   "Relativ zur Gesamtemission der Welt verursacht Europa damit XX%"
+   "Für Europa hat sich 2018 im Vergleich zu 2008 die Emission um XX% verändert"
+   "2018 im Vergleich zu 2008 sind das XXXX kg CO2"
+
+3. Die Ausgabe soll aus Variablen generiert sein, nicht aus statischem Text. Die Ausgaben-Werte sollen also durch Berechnungen mit Variablen erzeugt werden.
+
+4. Bitte erstellen Sie eine Ausgabe in der Konsole für alle Regionen: also für Europa, Asia usw. soll nacheinander in der Konsole der Text ausgegeben werden.
+
+Für diese Aufgabe finden Sie im Github Repo folgendes Material:
+
+[Daten zu Emissionswerten](https://github.com/gabriel-rausch/EIA1-SoSe20/tree/master/L05/task_material/assets/Datengrundlage.png)
+
+[Grundgerüst HTML und CSS](https://github.com/gabriel-rausch/EIA1-SoSe20/tree/master/L05/task_material/screenshots)
+
+
+Beachten Sie bitte: das Grundgerüst bietet zwar schon erste Design-Aspekte (CSS, Grafiken usw.), es geht aber in dieser Aufgabe NUR um die Berechnung der Emissionswerte auf Skriptebene. Die berechneten Werte sollten NUR per Konsole ausgegeben werden (falls Sie ambitioniert sind, dann dürfen Sie natürlich auch schon versuchen, die Werte in HTML dynamisch zu übertragen und darzustellen).
+
+
+## Abgabe bis Sonntag 31. Mai, 18:00 Uhr
+__Nach Abgabe und Feedback sind Korrekturmöglichkeiten bis 02. Juni möglich__
 
 
 ---
