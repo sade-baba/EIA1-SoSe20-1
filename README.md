@@ -62,3 +62,15 @@
 #### [**27 _Mai_** Q&A zu #05](L05/#-qa-fragen-und-antworten)
 
 #### [**29 _Mai_** Praktikum zu Aufgabe #05](L05/#a--aufgabe-05)
+
+---
+
+### [**06 _#_** Programmiergrundlagen I](L06)
+
+- Funktionen
+- Events
+- DOM-Manipulation
+
+#### [**03 _Jun_** Q&A zu #06](L06/#-qa-fragen-und-antworten)
+
+#### [**05 _Jun_** Praktikum zu Aufgabe #06](L06/#a--aufgabe-06)
