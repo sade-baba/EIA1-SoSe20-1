@@ -43,7 +43,7 @@ Variablen sind die Basis, um Inhalte bereitzustellen, Werte zu speichern, zu ber
 * die **Bezeichnung** der Variable (frei auszuwählen, Regeln müssen berücksichtigt werden)
 * den Zuordnungsoperator „**:**“
 * und dem **Typ**, z.B. string (Zeichenkette), number, boolean…
-
+<br>
 Über die Typisierung der Variablen teilen Sie dem Browser sofort mit, um welchen Datentyp es sich bei der Variable handelt, wodurch Performance verbessert und Arbeitslast verringert werden.
 
 ### Wertezuweisungen
