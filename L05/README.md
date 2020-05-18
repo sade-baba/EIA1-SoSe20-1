@@ -79,7 +79,7 @@ Es gibt unzählige Datentypen. Im ersten Semester sind für Sie aber erstmal nur
 </video>
 
 Mit Operatoren kann man Daten miteinander verarbeiten, zum Beispiel verketten oder verrechnen. 
-* Mit dem **Zeichenkettenoperator "+"** können Zeichenketten untereinander oder Zeichenketten mit Zahlenwerten aneinandergekettet werden
+* Mit dem **Zeichenkettenoperator "+"** können Zeichenketten untereinander oder Zeichenketten mit Zahlenwerten aneinandergekettet werden.
 * Mit den **mathematischen Operatoren** können sie Zahlenwerte miteinander verrechnen, Modulorechnung durchführen und Zahlen In- und Dekrementieren.
 * Die **Zuweisungsoperatoren** brauchen Sie später, um Bedingungen zu formulieren.
 
@@ -100,6 +100,7 @@ Dabei wird uns automatisch eine JavaScript-Datei erstellt, die beim Speichern vo
     <source src="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L05/L05_09_Take_Aways.mp4" type="video/mp4"> 
     <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L05/L05_09_Take_Aways.mp4">Zum Video</a>
 </video>
+
 
 * **ECMAScript** ist eine Spezifikation, die durch JavaScript im Browser abgebildet wird.
 * Trennen Sie am besten Inhalt und Funktion, indem sie JavaScript **als externe Datei** einbinden.
