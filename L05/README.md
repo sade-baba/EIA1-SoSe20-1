@@ -7,6 +7,7 @@
 </video>
 
 Programmierung bedeutet, Anweisungen an Maschinen zu übergeben, um Aufgaben zu erledigen — Programmierfragmente sind also Anweisungsblöcke, die in unserem Fall den Computer oder Browser dazu bringen, bestimmte Dinge zu tun. 
+
 Wir brauchen eine Skriptsprache (z.B. Javascript oder Typescript), um beispielsweise dem Nutzer eine bessere Interaktion mit der Anwendung zu ermöglichen oder den DOM und den Style zur Laufzeit zu manipulieren.
 
 
@@ -42,9 +43,9 @@ Variablen sind die Basis, um Inhalte bereitzustellen, Werte zu speichern, zu ber
 *  Einleitung der Deklaration über das Schlüsselwort **var**,
 * die **Bezeichnung** der Variable (frei auszuwählen, Regeln müssen berücksichtigt werden)
 * den Zuordnungsoperator „**:**“
-* und dem **Typ**, z.B. string (Zeichenkette), number, boolean…
-<br>
-Über die Typisierung der Variablen teilen Sie dem Browser sofort mit, um welchen Datentyp es sich bei der Variable handelt, wodurch Performance verbessert und Arbeitslast verringert werden.
+* und dem **Typ**, z.B. string (Zeichenkette), number, boolean…<br>
+
+Über die Typisierung der Variablen wird dem Browser sofort mitgeteilt, um welchen Datentyp es sich bei der Variable handelt, wodurch die Performance verbessert und die Arbeitslast verringert werden.
 
 ### Wertezuweisungen
 <video controls width="100%"> 
@@ -53,9 +54,9 @@ Variablen sind die Basis, um Inhalte bereitzustellen, Werte zu speichern, zu ber
 </video>
 
 Um einer Variable einen Wert zuzuweisen, ergänzen wir:
-* den Zuweisungsoperator "**=**",
+* den Zuweisungsoperator **=**,
 * den gültigen, dem Typ entsprechendem **Wert** 
-* und zum Abschluss ein Semicolon "**;**".
+* und zum Abschluss ein Semicolon **;**.
 
 
 ### Primitive Datentypen
