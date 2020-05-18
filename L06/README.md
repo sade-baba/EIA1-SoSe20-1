@@ -1,4 +1,4 @@
-## **06 _#_** TypeScript
+## **06 _#_** Programmiergrundlagen I
 
 ### Einführung
 <video controls width="100%"> 
