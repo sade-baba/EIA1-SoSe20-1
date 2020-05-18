@@ -40,7 +40,7 @@
 
 
 ## **A _---_** Aufgabe #06
-
+### Interaktive Infografik II
 
 Als Grundlage für Aufgabe 6 muss Aufgabe 5 gelöst worden sein.
 Mit Aufgabe 5 werden Werte als Konsolenausgbe generiert. Jetzt sollen die generierten Daten in das HTML Dokument überführt und angezeigt werden.

@@ -141,7 +141,8 @@ _Laden Sie die .js.map Dateien und selbstverständlich auch die .ts Dateien mit 
 
 
 
-## **A _---_** Aufgabe #05 - Interaktive Infografik
+## **A _---_** Aufgabe #05
+### Interaktive Infografik I
 
 Als Vorbereitung für eine interaktive Infografik sollten Sie Emissionswerte berechnen. Die Berechnung erfolgt auf Skriptebene mit TypeSkript.
 
