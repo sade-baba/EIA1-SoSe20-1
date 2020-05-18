@@ -107,7 +107,7 @@ Sie werden auch erkennen, dass viele Bausteine in den Stationen ähnlich sind. D
 
 Bearbeitung wie gehabt: als Unterordner in Ihrem Git Repository (bspw /Aufgabe4, hier dann weitere Unterordner /Station1 .../Station_X); das fertige Arbeitspaket wieder auf Github pushen und auf Ihrem Kursseiten-Steckbrief verlinken.
 
-## Abgabe von 4 Stationen bis Sonntag, 24. Mai, 18:00 Uhr.
+## Abgabe von 5 Stationen bis Sonntag, 24. Mai, 18:00 Uhr.
 
 Die schönste Ihrer Grußkarte dürfen Sie auch gerne (als Link) an Kommilitonen oder Lehrende schicken (Jirka R. Dell'Oro-Friedl freut sich immer über Post) ;-)
 
