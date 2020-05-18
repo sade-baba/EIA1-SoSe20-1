@@ -159,11 +159,16 @@ Folgende Anforderungen an die Aufgabe:
 
 4. Bitte erstellen Sie eine Ausgabe in der Konsole für alle Regionen: also für Europa, Asia usw. soll nacheinander in der Konsole der Text ausgegeben werden.
 
+```javascript
+console.log('Das ist eine Konsolenausgabe');
+console.log('Hier wird eine Variable ausgegeben: ' + testVariable);
+```
+
 Für diese Aufgabe finden Sie im Github Repo folgendes Material:
 
 [Daten zu Emissionswerten](https://github.com/gabriel-rausch/EIA1-SoSe20/tree/master/L05/task_material/assets/Datengrundlage.png)
 
-[Grundgerüst HTML und CSS](https://github.com/gabriel-rausch/EIA1-SoSe20/tree/master/L05/task_material/screenshots)
+[Grundgerüst HTML und CSS](https://github.com/gabriel-rausch/EIA1-SoSe20/tree/master/L05/task_material)
 
 
 Beachten Sie bitte: das Grundgerüst bietet zwar schon erste Design-Aspekte (CSS, Grafiken usw.), es geht aber in dieser Aufgabe NUR um die Berechnung der Emissionswerte auf Skriptebene. Die berechneten Werte sollten NUR per Konsole ausgegeben werden (falls Sie ambitioniert sind, dann dürfen Sie natürlich auch schon versuchen, die Werte in HTML dynamisch zu übertragen und darzustellen).
