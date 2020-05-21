@@ -117,11 +117,93 @@ Die schönste Ihrer Grußkarte dürfen Sie auch gerne (als Link) an Kommilitonen
 
 
 ## **?! _<small>Q&A</small>_** Fragen und Antworten
-(die Publikation der Zusammenfassung erfolgt nach dem Q&A Termin)
+(die Zusammenfassung der Q&A-Session wurden von Teilnehmern verfasst und ggf. angepasst und ergänzt)
+
+Von [fionavi](https://github.com/fionavi)
 
 
-### Erste Frage?
-Lorem labore cillum mollit pariatur reprehenderit dolor laboris reprehenderit dolor sit officia ea non. Lorem reprehenderit exercitation labore eiusmod aute do nostrud officia aute proident sunt. Labore non tempor aliqua voluptate. Exercitation culpa officia ut aliqua nostrud laborum irure est. Minim eu sunt culpa adipisicing laborum consectetur aliqua quis.
+**Fragen an Studenten:**
 
-### Zweite Frage?
-Mollit aliquip veniam sit eiusmod tempor anim ipsum tempor. Aliqua sunt voluptate ea dolor. Nulla est mollit consectetur cupidatat ut cillum ipsum minim. Est ex et nulla laborum fugiat dolore. Aliquip laboris sint exercitation commodo dolor sint mollit qui sunt ipsum fugiat occaecat id enim.
+-      Welche Komplexe Selektoren gibt es?
+
+zB. „hover" (Zustand eines Elements), gehört zu Pseudoklassen
+
+-      Bitte von Herrn Rausch
+
+Feedback zu Lehrvideos geben, eventuell Verbesserungsvorschläge äußern
+
+**Fragen von Studenten:**
+
+-      Allgemeine Frage zur Vorlesung
+
+man darf Aufgaben und Lektionen auch schon früher bearbeiten, als sie vorgesehen sind
+
+-      Können die Tabellen/Grafiken aus den Lehrvideos als Dokumente zu Verfügung gestellt werden? 
+
+Ja, Herr Rausch bot an PDF-Dateien zu erstellen. Außerdem bietet <https://www.w3schools.com/> eine ausführliche Übersicht von CSS-Befehlen.
+
+**Individuelle Fragen nach offizieller Session:**
+
+-      Probleme mit "position: absolute;"
+
+"position: absolute center;" gibt es nicht, korrekt ist "position: absolute;"
+
+"position: absolute;" funktioniert nur wenn die Position des Elternelements nicht "static" ist
+
+Verschachtelung müssen genau beachtet werden, damit sich die "position: absolute;" der Kinderelemente auf das richtige übergeordnete Element beziehen kann
+
+-      Icon verschiebt sich obwohl es auf der Position bleiben sollte
+
+Developer Tool nutzen, um zu sehen wo genau das Element verschachtelt ist (wenn die Elemente nicht ineinander verschachtelt sind, wird nichts vererbt)
+
+durch "position: relative;" und bestimmte Werte für margin-bottom/-top ist die Positionierung auf der Y-Achse stabil, jetzt auf X-Achse zentral positionieren
+
+In diesem Fall war der header das umschließende Element indem alle Kinderelemente sind
+
+header Positionierungseigenschaft "relative" geben, damit er zum Ursprungselement des Koordinatensystems für alle Kinderelemente wird
+
+-      Schwierigkeiten beim Hovern mit Bildern
+
+Bildelemente haben bestimmte Größe, diese entspricht der Hovergröße
+
+Statt mit echten Bildern in html zu arbeiten, kann man in html eine Klasse erstellen (<div class ="image">) und die Bilder mit CSS einfügen, damit man diese einfacher skalieren/manipulieren kann
+
+.image {
+
+background-image: url("https....");
+
+}
+
+Eigenschaften height und width definieren   je größer diese sind, desto mehr sieht man vom Bild
+
+jetzt über "hover" dieses Bild austauschen:
+
+.image:hover { 
+
+background-image: url("https....");
+
+}
+
+.image { 
+
+transition: all .5s;
+
+}
+
+-      Probleme bei Github Desktop (es kann nicht gepullt und gepusht werden, da der Repository Ordner nicht gefunden wird)
+
+Liegt an Konflikt zwischen lokalem und online Repository (sie sind nicht synchron)
+
+Um den Konflikt lösen, wird ein Klon über Github Desktop des aktuellen Repositorys erstellt (in diesem Fall das online R.). Dieser Klon ist jetzt lokal gespeichert und kann lokal bearbeitet und danach gepusht werden
+
+-      Allgemeine Grundfunktionen und Workflow von Github Desktop
+
+Ablauf: 
+
+Dateien im Repository abspeichern, diese Änderungen werden auf Github Desktop angezeigt
+
+bei Github Desktop "committ to master" klicken, dazu Beschreibung angeben, was geändert wurde (commiten ist lokal)
+
+dann auf Server pushen (pushen ist online)
+
+Gute Struktur: Immer erst alles lokal erstellen und bearbeiten, dann erst Kopie über Github Desktop auf Server pushen
