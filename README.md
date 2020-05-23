@@ -83,6 +83,6 @@
 - Zahlensysteme
 - Einfache und assoziative Arrays
 
-#### [**03 _Jun_** Q&A zu #07](L07/#-qa-fragen-und-antworten)
+#### [**10 _Jun_** Q&A zu #07](L07/#-qa-fragen-und-antworten)
 
-#### [**05 _Jun_** Praktikum zu Aufgabe #07](L07/#a--aufgabe-07)
+#### [**12 _Jun_** Praktikum zu Aufgabe #07](L07/#a--aufgabe-07)
