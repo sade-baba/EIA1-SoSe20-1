@@ -74,3 +74,15 @@
 #### [**03 _Jun_** Q&A zu #06](L06/#-qa-fragen-und-antworten)
 
 #### [**05 _Jun_** Praktikum zu Aufgabe #06](L06/#a--aufgabe-06)
+
+---
+
+### [**06 _#_** Programmiergrundlagen II](L07)
+
+- Farbwerte
+- Zahlensysteme
+- Einfache und assoziative Arrays
+
+#### [**03 _Jun_** Q&A zu #07](L07/#-qa-fragen-und-antworten)
+
+#### [**05 _Jun_** Praktikum zu Aufgabe #07](L07/#a--aufgabe-07)
