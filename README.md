@@ -77,7 +77,7 @@
 
 ---
 
-### [**06 _#_** Programmiergrundlagen II](L07)
+### [**07 _#_** Programmiergrundlagen II](L07)
 
 - Farbwerte
 - Zahlensysteme
