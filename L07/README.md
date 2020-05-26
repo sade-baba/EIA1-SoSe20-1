@@ -12,11 +12,21 @@
     <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L07/L07_02_Farbwerte.mp4">Zum Video</a>
 </video>
 
+Die farbliche Gestaltung ist essenziell bei der Gestaltung interaktiver Anwendungen. Für die Ausgabe über den Bildschirm ist die additive Farbmischung viel besser geeignet als die Subtraktive, da nach demselben Prinzip die technische Umsetzung erfolgt. 
+
+Farbwerte von Elementen können auf unterschiedliche Weisen sowohl im CSS als auch per TypeScript angegeben werden. Empfohlen sind die **RGB / RGBA-Form** (mit Zahlen von 0 - 255 für die Farben und von 0 bis 1 für den Alpha-Kanal) sowie die **Hexadezimalschreibweise** (in der Form #RRGGBB).
+
+
 ### Zahlensysteme - Binär und Hexadezimal
 <video controls width="100%"> 
     <source src="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L07/L07_03_Zahlensysteme.mp4" type="video/mp4"> 
     <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L07/L07_03_Zahlensysteme.mp4">Zum Video</a>
 </video>
+
+Während beim gängigen Dezimalsystem jedes Zeichen einen von 10 Werten besitzen kann (0 – 9) nutzt das Binärsystem lediglich Nullen und Einsen um Informationen darzustellen. Mit der 2 als Basis wird es deshalb als Grundlage zur Speicherung von Daten in jedem Computer genutzt.
+
+Beim **Hexadezimalsystem** hingegen stehen durch die Nutzung der Zeichen **0 – 9** und **a – f** also 16 mögliche Werte pro Zeichen zur Verfügung. Letztendlich sind mit RGB- und HEX-Farbwerten gleich viele Farbenwerte möglich, nämlich 16,7 Millionen.
+
 
 ### Einfache und assoziative Arrays
 <video controls width="100%"> 
@@ -24,13 +34,23 @@
     <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L07/L07_04_Arrays.mp4">Zum Video</a>
 </video>
 
+Statt viele Variablen zu erzeugen, um mehrere typgleiche Informationen zu speichern, kann **ein Array** dafür genutzt werden. Bei der Deklaration weisen eckige Klammern `[]` nach dem Typ darauf hin, dass es sich um ein Array handelt. 
+
+`let mySubjects: string [] = [ 'EIA1', 'Mediengestaltung', 'Medienpsychologie', 'AV-Technik', 'BWL' ]`
+
+Bei einfach Arrays werden **Indizes** genutzt, um auf einzelne Elemente eines Arrays zu verweisen. Das erste Elemente hat dabei immer den Index 0, das zweite den Index 1 usw. Bei assoziativen Arrays werde statt Indizes Schlüssel genutzt.
+
+Arrays bieten außerdem **Methoden**, um unter anderem Elemente **hinzuzufügen, zu entfernen** oder die Länge des Arrays auszugeben. Das letzte Element eines Arrays hat als Index immer den Wert der Länge -1.
+
 ### Take Aways
 <video controls width="100%"> 
     <source src="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L07/L07_05_Take_Aways.mp4" type="video/mp4"> 
     <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L07/L07_05_Take_Aways.mp4">Zum Video</a>
 </video>
 
-
+-	Verschiedene Farbwert-Formate wurden erklärt, empfohlen wird die Nutzung von RGB und HEX-Werten
+-	Das Binärsystem ist grundlegend für Computer, das Hexadezimalsystem findet bspw. bei Farbwerten Anwendung
+-	Arrays können zur Speicherung mehrerer Elemente genutzt werden
 
 
 ## **A _---_** Aufgabe #07
