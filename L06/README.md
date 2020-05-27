@@ -12,11 +12,29 @@
     <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L06/L06_02_Funktionen.mp4">Zum Video</a>
 </video>
 
+Um zu verhindern, dass alle Skriptanweisungen automatisch nacheinander abgearbeitet werden, benutzen wir Funktionen. Funktionen sind Anweisungsblöcke, die bestimmte Aufgaben zu einem von uns festgelegten Zeitpunkt ausgeführt werden können (z.B. wenn der Benutzer auf einen Button klickt). Um die Funktion auszuführen, muss sie innerhalb im Skript aufgerufen werden, dabei kann sie immer wieder verwendet werden.
+
+Eine Funktion wird folgendermaßen deklariert:
+* `function myFunction() { … }`
+* `function` ist das Keywords, das anzeigt, dass hier eine Funktion folgt
+* `myFunction` repräsentiert hier den Funktionsnamen, der selbst gewählt werden kann
+* in die Funktionsklammern `()` können optional Argumente (= Werte für den Funktionsaufruf) mitgegeben werden
+* zwischen die Anweisungsklammern `{}` kommt die eigentliche Anweisung
+
+**Gültigkeitsbereich von Variablen**
+* Variablen, die außerhalb einer Funktion (= global) deklariert werden, sind überall verfügbar
+* Variablen, die innerhalb einer Funktion (= lokal) deklariert werden, sind nur innerhalb dieser Funktion verfügbar 
+
+
 ### Events
 <video controls width="100%"> 
     <source src="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L06/L06_03_Events.mp4" type="video/mp4"> 
     <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L06/L06_03_Events.mp4">Zum Video</a>
 </video>
+
+Um Funktionen zu einem bestimmten Zeitpunkt (z.B. bei einer Nutzerinteraktion) aufzurufen, verwenden wir **Events**. Um ein Event aufzurufen, verwenden wir einen **Event-Listener**, der zum Beispiel so aussehen könnte: 
+`document.querySelector("h1").addEventlistener("click", myFunction)`
+
 
 ### Ladereihenfolge un Parsen des Skripts
 <video controls width="100%"> 
@@ -24,17 +42,33 @@
     <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L06/L06_04_Ladereihenfolge.mp4">Zum Video</a>
 </video>
 
+Da der Browser Dokumente von oben nach unten parst, kommt er erst beim Skript an, bevor er den DOM liest. Wenn man also Event-Listener an bestimmte Elemente gehängt hat, kennt der Browser diese zu dem Zeitpunkt, zu dem er das Skript liest, diese Elemente noch gar nicht — so können Fehler beim Ausführen des Events entstehen.
+
+Um das Skript erst auszuführen, wenn der DOM schon geladen wurde, verwenden wir am besten einen **Window-Eventlistener**, der die Funktionen erst ausführt, wenn der DOM vollständig geladen ist.
+
+
 ### DOM Manipulation
 <video controls width="100%"> 
     <source src="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L06/L06_05_DOM_Manipulation.mp4" type="video/mp4"> 
     <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L06/L06_05_DOM_Manipulation.mp4">Zum Video</a>
 </video>
 
+**DOM-Manipulation** bezeichnet das manipulieren von Inhalten (inhaltlich, visuell oder funktional) zur Laufzeit des Browsers.
+Übliche Methoden dazu sind unter anderem
+* `innerHTML`: Damit kann ein Element (zum Beispiel ein leeres div-Element) selektiert und dort ein neuer Wert hineingeschrieben werden. Dazu schreiben wir eine Zeichenkette mit ganz normalem HTML-Code. 
+* `setAttribute`: um z.B. den Style zu verändern, oder 
+* `createElement`: zur Erschaffung eines ganz neuen Elements, welches dann bearbeitet und dem DOM übergeben werden kann.
+
+
 ### Take Aways
 <video controls width="100%"> 
     <source src="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L06/L06_06_Take_Aways.mp4" type="video/mp4"> 
     <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L06/L06_06_Take_Aways.mp4">Zum Video</a>
 </video>
+
+* **Funktionen** sind Anweisungsblöcke, die (ggf. mit Argumenten) gezielt aufgerufen werden können.
+* **Events** sind Ereignisse, die Funktionen auslösen können.
+* Der DOM kann durch verschiedene Methoden über das Skript manipuliert werden.
 
 
 
