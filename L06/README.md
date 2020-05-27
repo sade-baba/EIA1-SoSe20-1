@@ -16,7 +16,7 @@ Um zu verhindern, dass alle Skriptanweisungen automatisch nacheinander abgearbei
 
 Eine Funktion wird folgendermaßen deklariert:
 * `function myFunction() { … }`
-* `function` ist das Keywords, das anzeigt, dass hier eine Funktion folgt
+* `function` ist das Keyword, das anzeigt, dass hier eine Funktion folgt
 * `myFunction` repräsentiert hier den Funktionsnamen, der selbst gewählt werden kann
 * in die Funktionsklammern `()` können optional Argumente (= Werte für den Funktionsaufruf) mitgegeben werden
 * zwischen die Anweisungsklammern `{}` kommt die eigentliche Anweisung
@@ -42,7 +42,7 @@ Um Funktionen zu einem bestimmten Zeitpunkt (z.B. bei einer Nutzerinteraktion) a
     <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L06/L06_04_Ladereihenfolge.mp4">Zum Video</a>
 </video>
 
-Da der Browser Dokumente von oben nach unten parst, kommt er erst beim Skript an, bevor er den DOM liest. Wenn man also Event-Listener an bestimmte Elemente gehängt hat, kennt der Browser diese zu dem Zeitpunkt, zu dem er das Skript liest, diese Elemente noch gar nicht — so können Fehler beim Ausführen des Events entstehen.
+Da der Browser Dokumente von oben nach unten parst, kommt er zuerst beim Skript an, bevor er den DOM liest. Wenn man also Event-Listener an bestimmte Elemente gehängt hat, kennt der Browser diese Elemente zu dem Zeitpunkt, zu dem er das Skript liest, noch gar nicht — so können Fehler beim Ausführen des Events entstehen.
 
 Um das Skript erst auszuführen, wenn der DOM schon geladen wurde, verwenden wir am besten einen **Window-Eventlistener**, der die Funktionen erst ausführt, wenn der DOM vollständig geladen ist.
 
@@ -54,7 +54,7 @@ Um das Skript erst auszuführen, wenn der DOM schon geladen wurde, verwenden wir
 </video>
 
 **DOM-Manipulation** bezeichnet das manipulieren von Inhalten (inhaltlich, visuell oder funktional) zur Laufzeit des Browsers.
-Übliche Methoden dazu sind unter anderem
+Übliche Methoden dazu sind unter anderem:
 * `innerHTML`: Damit kann ein Element (zum Beispiel ein leeres div-Element) selektiert und dort ein neuer Wert hineingeschrieben werden. Dazu schreiben wir eine Zeichenkette mit ganz normalem HTML-Code. 
 * `setAttribute`: um z.B. den Style zu verändern, oder 
 * `createElement`: zur Erschaffung eines ganz neuen Elements, welches dann bearbeitet und dem DOM übergeben werden kann.
