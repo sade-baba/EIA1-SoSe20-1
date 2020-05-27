@@ -183,11 +183,73 @@ __Nach Abgabe und Feedback sind Korrekturmöglichkeiten bis 02. Juni möglich__
 
 
 ## **?! _<small>Q&A</small>_** Fragen und Antworten
-(die Publikation der Zusammenfassung erfolgt nach dem Q&A Termin)
+(die Zusammenfassung der Q&A-Session wurden von Teilnehmern verfasst und ggf. angepasst und ergänzt)
+
+Von [erpunkt](https://github.com/erpunkt)
 
 
-### Erste Frage?
-Lorem labore cillum mollit pariatur reprehenderit dolor laboris reprehenderit dolor sit officia ea non. Lorem reprehenderit exercitation labore eiusmod aute do nostrud officia aute proident sunt. Labore non tempor aliqua voluptate. Exercitation culpa officia ut aliqua nostrud laborum irure est. Minim eu sunt culpa adipisicing laborum consectetur aliqua quis.
+**Was ist ECMA?**
 
-### Zweite Frage?
-Mollit aliquip veniam sit eiusmod tempor anim ipsum tempor. Aliqua sunt voluptate ea dolor. Nulla est mollit consectetur cupidatat ut cillum ipsum minim. Est ex et nulla laborum fugiat dolore. Aliquip laboris sint exercitation commodo dolor sint mollit qui sunt ipsum fugiat occaecat id enim.
+ECMA ist eine Organisation wie z.B. W3C, die aus Forschern und Unternehmen besteht.
+
+**Was ist ECMAScript?**
+
+Ecma Script ist die Spezifikation einer Skriptsprache
+
+**Was ist eine Spezifikation?**
+
+In einer Spezifikation werden die Eigenschaften und die gewünschte Umsetzung einer Technologie erfasst.
+
+**Wie sollten Dateien geöffnet werden?**
+
+Wichtiger Hinweis ---> Immer im über Ordner Repo/Ordner öffnen, damit auch Konfigurationsdateien erkannt werden können.
+
+---> SOESE20...
+
+**Wo können die Befehle ausgeführt werden?**
+
+Im Terminal 
+
+Mac: Eigenes Terminal
+
+Windows: Powershell
+
+Oder das Terminal von VSC
+
+**Hilfe für Mac User**
+
+i= install 
+
+g= global 
+
+sudo = su ---> substitute user -  „wechsle Benutzer"  
+
+**Versionsabfrage npm**
+
+sudo npm -v 
+
+oder
+
+sudo npm --version
+
+---> Password: *Nutzer Passwort vom Computer* !!Wird nicht angezeigt!!
+
+**Versionsabfrage Typescript**
+
+tsc -v oder tsc  --version
+
+**Installation Typescript**
+
+sudo npm i -g typescript
+
+---> Passwort: *Nutzer Passwort vom Computer* !!Wird nicht angezeigt!!
+
+**Zugriffsrechte- Schreibrechte**
+
+ sudo chown -R $USER /usr/local/lib/node_modules 
+
+„chown is the command we use to change the owner of a file or folder. We set the -R option to change the owner recursively, so we also get owner access to all the files already contained in there."
+
+**Transpilieren von tsc in js**
+
+ tsc constants.d.ts
