@@ -212,44 +212,47 @@ Im Terminal 
 
 Mac: Eigenes Terminal
 
-Windows: Powershell
+Windows: CMD oder Powershell
 
 Oder das Terminal von VSC
 
-**Hilfe für Mac User**
 
-i= install 
-
-g= global 
+**Ausführen von Befehlen im Terminmal mit Admin-Rechten unter Mac**
 
 sudo = su ---> substitute user -  „wechsle Benutzer"  
 
+also bspw: sudo npm install usw...
+
+---> Passwort: *Nutzer Passwort vom Computer* !!Wird nicht angezeigt!!
+
 **Versionsabfrage npm**
 
-sudo npm -v 
+npm -v 
 
 oder
 
-sudo npm --version
+npm --version
 
 ---> Password: *Nutzer Passwort vom Computer* !!Wird nicht angezeigt!!
 
 **Versionsabfrage Typescript**
 
-tsc -v oder tsc  --version
+tsc -v oder tsc --version
 
 **Installation Typescript**
 
-sudo npm i -g typescript
+npm i -g typescript
 
----> Passwort: *Nutzer Passwort vom Computer* !!Wird nicht angezeigt!!
+oder 
+
+sudo npm i -g typescript
 
 **Zugriffsrechte- Schreibrechte**
 
- sudo chown -R $USER /usr/local/lib/node_modules 
+sudo chown -R $USER /usr/local/lib/node_modules
 
 „chown is the command we use to change the owner of a file or folder. We set the -R option to change the owner recursively, so we also get owner access to all the files already contained in there."
 
 **Transpilieren von tsc in js**
 
- tsc constants.d.ts
+tsc dateiname.ts
