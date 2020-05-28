@@ -256,3 +256,5 @@ sudo chown -R $USER /usr/local/lib/node_modules
 **Transpilieren von tsc in js**
 
 tsc dateiname.ts
+
+**Die Skriptdatei wird nicht im Browser direkt geöffnet, sondern als Ressource in HTML eingebunden. Im Browser wird die HTML Datei geöffnet.**
