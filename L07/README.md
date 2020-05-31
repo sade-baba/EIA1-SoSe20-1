@@ -96,6 +96,8 @@ setInterval(function() {
 ```
 Mehr dazu hier https://www.w3schools.com/jsref/met_win_setinterval.asp
 
+Das Materialpaket für diese Aufgabe finden Sie [hier](https://github.com/gabriel-rausch/EIA1-SoSe20/tree/master/L07/task_material)
+
 Bearbeitung wie gehabt: als Unterordner in Ihrem Git Repository (/Aufgabe_7); das fertige Arbeitspaket wieder auf Github pushen und auf Ihrem Kursseiten-Steckbrief verlinken.
 
 ## Abgabe bis 14. Juni um 18:00 Uhr
