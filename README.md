@@ -86,3 +86,15 @@
 #### [**10 _Jun_** Q&A zu #07](L07/#-qa-fragen-und-antworten)
 
 #### [**12 _Jun_** Praktikum zu Aufgabe #07](L07/#a--aufgabe-07)
+
+---
+
+### [**08 _#_** Programmiergrundlagen III](L08)
+
+- Bedingungen
+- Schleifen
+- Linter
+
+#### [**17 _Jun_** Q&A zu #08](L08/#-qa-fragen-und-antworten)
+
+#### [**19 _Jun_** Praktikum zu Aufgabe #08](L08/#a--aufgabe-08)

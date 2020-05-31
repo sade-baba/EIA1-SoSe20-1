@@ -111,7 +111,7 @@ Als letzten Schritt müssen Sie für den Linter in VSC die TSLint Extension inst
 
 6. Folgende Anforderung für Ihre Code-Struktur: (a) das Abspielen eines Samples (new Audio... usw.) soll von einer zentralen Funktion ausgeführt werden. In Ihrem Code darf also nur **einmal** die Anweisung __new Audio__ auftrauchen. (b) Für das Abspielen, Aufnehmen und Löschen eines Beats soll nur **ein** Array manipuliert werden.
 
-7. Eine visuelle Anforderung: für die Darstellung der Buttons (Record, Play/Stop, Delete) sollen **keine** Grafiken eingesetzt werden, stattdessen werden Sie die Icons aus einer Icon-Font einbinden. Sehen Sie sich dazu das Beispiel [example-icon-fonts.html](https://github.com/gabriel-rausch/EIA1-SoSe20/tree/master/L07/task_material) an und übertragen Sie die entsprechenden Fragemente in Ihre Anwendung. 
+7. Eine visuelle Anforderung: für die Darstellung der Buttons (Record, Play/Stop, Delete) sollen **keine** Grafiken eingesetzt werden, stattdessen werden Sie die Icons aus einer Icon-Font einbinden. Sehen Sie sich dazu das Beispiel [example-icon-fonts.html](https://github.com/gabriel-rausch/EIA1-SoSe20/tree/master/L08/task_material) an und übertragen Sie die entsprechenden Fragemente in Ihre Anwendung. 
 
 **Zusatzaufgabe (wenn 8.1. - 8.7 erfüllt wurde dann gibt es dafür einen Tibute)**  
 Mit der Tastatur soll das Drum-Pad ebenfalls bedienbar sein. Die Tastenbelegung ist dabei frei wählbar. Bei Tastendruck soll die selbe Funktion getriggert werden, wie sie auch bei Kick-Input genutzt wird (Abspielen des Samples und, wenn Record-Button aktiv, auch übertrag in den Beat-Loop). Kleine Hilfe: dafür benötigen Sie die Event- und Switch-Case Programmierbausteine.
