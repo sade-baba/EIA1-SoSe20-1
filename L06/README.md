@@ -108,7 +108,7 @@ __Nach Abgabe und Feedback sind Korrekturmöglichkeiten bis Dienstag, 9. Juni, 1
 ## **?! _<small>Q&A</small>_** Fragen und Antworten
 (die Publikation der Zusammenfassung erfolgt nach dem Q&A Termin)
 
-Von [erpunkt](https://github.com/erpunkt)
+Von [saravo306](https://github.com/saravo306)
 
 
 **Funktionen **= Sammlung von Anweisungen bzw. Anweisungsblöcke, die bestimmte Aufgaben zu einem von uns festgelegten Zeitpunkt ausgeführt werden 
@@ -194,3 +194,26 @@ window.addEventListener ('load', funktion() {
 }
 
     - „meinName" steht dabei stellvertretend für irgendein Funktionsname
+
+
+### Anmerkung zu Video "Funktionen"
+
+Von [lemon-pie](https://github.com/lemon-pie)
+
+- in Zeile 1+2 werden für die Variablen fuel... und kilo..., die mit var gekennzeichnet werden, die Werte 7 und 30 festgelegt
+-  Sie können sich das vorstellen wie damals in Mathe, dass man z.B. gesagt hatte X sei eine Zahl, hier also in Zeile 1 z.B. 7 (Also x=7, nur sagt man hier nicht x sondern hat dem einen Namen gegeben, nämlich fuel...)
+-  schlussendlich steht da also nur z.B. x=7 und y=30
+- die Bezeichnung ist dabei etwas worauf man sich später auch beziehen kann, sodass man statt den Wert die Bezeichnung nennt
+- in Zeile 3 wird dann eine neue Variable definiert, nämich emission...
+- da können Sie auch sehen was möglich ist, und zwar wurde hier eine Rechnung eingegeben, die sich auf die Variablen, also quasi x und y von zuvor, bezieht und das Ergebnis bzw. die Summe dieser Rechnung ist dann der Wert einer neuen Variablen
+- der Browser ließt hier also, die Variable emission... wird berechnet aus 7 * 30 * 0.238 (hier auch wieder beachten, kein Komma sondern Punkt zu wählen)
+-  das ergibt also * öffnet Rechner * aha, 49,98. Das bedeutet die Variable emission...=49,98 quasi sowas wie z=49,98
+- und in der nächsten Zeile, oder eigentlich die übernächste Zeile weil man gerne für die Übersicht leere Zeile einfügt, sehen Sie was auch möglich ist... Man kann auch sagen, dass eine Variable ein vollständiger Satz ist und sich aus Text und Zahlen zusammensetzen kann
+- die 4. Variable, mit dem Namen result, besteht also aus dem Text "co2..." und dem Ergebnis der Rechnung von emission..., also 49,98 und das wird man in der Konsole dann schön hintereinander, eben wie man es hier vorgegeben hat, lesen können
+- dazu muss man natürlich auch erst noch sagen, dass etwas und was im Browser bzw. der console angezeigt werden soll
+- man schreibt also console.... und sagt dem Browser, zeige mir nur dass an, was du für result berechnet hast bzw. die Summe von der Berechnung und dem Text
+- wenn man die leeren Zeilen weglässt, hat man also 5 Zeilen und man hat in den vier Zeilen darüber nur dem Browser gesagt, was er schlussendlich machen soll, wenn er mir result anzeigen soll
+- zuerst also Variablen definiert, sich auf die dann in der nächsten Zeile bezogen indem man sie in eine Rechnung einbaut, das Ergebnis davon wieder als eine neue Variable definiert auf die man sich dann in Zeile 4 bezieht und wieder eine neue Variable festlegt, die diesesmal aus einer Zahl UND einem Text besteht und hat sich das Ergebnis dann mit console hier * öffnet console im Browser * anzeigen lassen
+- was Sie hier sehen ist wiederum auch die ausführliche Variante, weil Sie alles gestückelt und einzelnd definiert haben... Wenn Sie das nicht mögen können Sie sich auch Zeilen sparen, indem Sie z.B. die Variable result nicht definieren und einfach das, was bei dieser Variable nach dem = steht, also "co2... und emission..., direkt in die console schreiben
+- das würde für diese Aufgabe auch ausreichen aber später kann es vorteilhafter sein, wenn das so zerstückelt wird, weil (hier ein Beispiel aus Ihrer Erfahrung nennen) aber das werden Sie wahrscheinlich später auch selbst bemerken, was Sie wann sinnvoll finden und entsprechend nutzen werden
+- abschließend sehen Sie hier also schlussendlich, wenn man jetzt in Zeile 1 und 2 nur den Wert von 7 und 30 austauschen würde, also z.B. ähm 90 uuund 400, würde der Browser * öffnet console im Browser * die ganzen Zeilen nochmal neu durchgehen und berechnen, sodass, wie Sie hier lesen können *zeigt auf Zeile in console* jetzt bei gleicher Vorgehensweise etwas Anderes stehen würde.
