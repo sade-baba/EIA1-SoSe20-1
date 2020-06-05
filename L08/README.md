@@ -42,7 +42,7 @@
     <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L08/L08_07_Mehrfache_Verzweigung_SwitchCase.mp4">Zum Video</a>
 </video>
 
-### Bedigungen – Schreibweisen
+### Bedigungen – Beispiele und Schreibweisen
 <video controls width="100%"> 
     <source src="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L08/L08_08_Bedigungen_Schreibweisen.mp4" type="video/mp4"> 
     <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L08/L08_08_Bedigungen_Schreibweisen.mp4">Zum Video</a>

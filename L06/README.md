@@ -108,9 +108,89 @@ __Nach Abgabe und Feedback sind Korrekturmöglichkeiten bis Dienstag, 9. Juni, 1
 ## **?! _<small>Q&A</small>_** Fragen und Antworten
 (die Publikation der Zusammenfassung erfolgt nach dem Q&A Termin)
 
+Von [erpunkt](https://github.com/erpunkt)
 
-### Erste Frage?
-Lorem labore cillum mollit pariatur reprehenderit dolor laboris reprehenderit dolor sit officia ea non. Lorem reprehenderit exercitation labore eiusmod aute do nostrud officia aute proident sunt. Labore non tempor aliqua voluptate. Exercitation culpa officia ut aliqua nostrud laborum irure est. Minim eu sunt culpa adipisicing laborum consectetur aliqua quis.
 
-### Zweite Frage?
-Mollit aliquip veniam sit eiusmod tempor anim ipsum tempor. Aliqua sunt voluptate ea dolor. Nulla est mollit consectetur cupidatat ut cillum ipsum minim. Est ex et nulla laborum fugiat dolore. Aliquip laboris sint exercitation commodo dolor sint mollit qui sunt ipsum fugiat occaecat id enim.
+**Funktionen **= Sammlung von Anweisungen bzw. Anweisungsblöcke, die bestimmte Aufgaben zu einem von uns festgelegten Zeitpunkt ausgeführt werden 
+
+**DOM Manipulation **=bezeichnet das Manipulieren von Inhalten (inhaltlich, visuell oder funktional) zur Laufzeit des Browsers, wichtig um Inhalte interaktiv zu gestalten
+
+**Events **= wird verwendet um Funktionen zu einem bestimmten Zeitpunkt (z.B. bei einer Nutzerinteraktion) aufzurufen, Um ein Event aufzurufen, verwenden wir einen Event-Listener
+
+„Ein Ereignis kann durch Benutzerinteraktionen ausgelöst werden; z.B. das Klicken einer Maustaste oder Eingaben der Tastatur."
+
+**Wie kann ein Event Listener eine Funktion aufrufen? Kann er nur eine oder mehrere gleichzeitig aufrufen?**
+
+- technisch geht beides, also entweder nur eine Funktion oder mehrere innerhalb der anonymen Funktion
+
+- wenn man den Code gut lesbar machen möchte, dann wäre es sinnvoll, wenn man die Funktionsaufrufe wie eine Kaskade voneinander abhängig macht (werden wir in anderen Lektionen noch vertiefen)
+
+**Thema Anführungsstriche: mit nur einem einem oder mit zwei Anführungsstrichen arbeiten?**
+
+- Bei TypeScript als auch bei JavaScript ist es egal ob man mit einfachen oder doppelten Anführungsstrichen arbeitet
+
+- nur „Codestyle"
+
+- allerdings mit Linter (=Codequalitätswerkzeug) achtet darauf, dass man immer doppelte Anführungszeichen nutzt (werden wir erst in Lektion 8 vertiefen)
+
+- man kann beides machen, aber vorsichtig bei Verschachtelungen von Textelementen
+
+    - Bsp: console.log ("Hallo Welt");
+
+    - Nur „Welt" in Anführungsstrichen   console.log ("Hallo 'Welt' ");
+
+**oder** escapen um doppelte Anführungsstriche zu erhalten  console.log ("Hallo \"Welt\"");
+
+**Funktionsklammern**
+
+- müssen immer vorhanden sein, unabhängig davon, ob darin Parameter stehen oder nicht
+
+- Bsp. function myFunction**() **{
+
+}
+
+- Auch wenn man die Funktion später nochmal aufrufen möchte, ist die runde Klammer essentiell
+
+**Wie kann man Elemente manipulieren?**
+
+- eine Methode ist das Arbeiten mit .innerHTML
+
+- die andere Methode mit .setAttribute
+
+    - diese erwartet zwei Parameter  einen qualified Name + einen value
+
+    - Bsp. document.querySelector ('a').setAttribute ('blabla' , '123');
+
+§  Wie heißt das Attribut? Also was wird erstellt?   „blabla" mit dem Wert „123 „
+
+**Das Parsen des DOM's und des Skripts**
+
+- am besten in der TypeScript Datei direkt am Anfang mit...
+
+window.addEventListener ('load', funktion() {
+
+.....
+
+}
+
+...arbeiten, damit auch alle Skriptanweisungen berücksichtigt werden
+
+**Welche Werte sollen in das Balkendiagramm?**
+
+- Entweder die relativen oder absoluten Werte, aber in Prozentangabe
+
+**Was sind anonyme Funktionen?**
+
+- Anonyme Funktionen, sind im Vergleich zu regulären Funktionen, Funktionen ohne Funktionsname 
+
+    - Schreibweise: function() {
+
+}
+
+- Reguläre Funktion
+
+    - Schreibweise: function meinName() {
+
+}
+
+    - „meinName" steht dabei stellvertretend für irgendein Funktionsname
