@@ -98,3 +98,15 @@
 #### [**17 _Jun_** Q&A zu #08](L08/#-qa-fragen-und-antworten)
 
 #### [**19 _Jun_** Praktikum zu Aufgabe #08](L08/#a--aufgabe-08)
+
+---
+
+### [**09 _#_** Programmiergrundlagen III](L09)
+
+- Fortgeschrittene Variablendeklarationen
+- Objekte und Interfaces
+- Algorithmen
+
+#### [**24 _Jun_** Q&A zu #09](L09/#-qa-fragen-und-antworten)
+
+#### [**26 _Jun_** Praktikum zu Aufgabe #09](L09/#a--aufgabe-09)
