@@ -6,11 +6,19 @@
     <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L08/L08_01_Einfuehrung.mp4">Zum Video</a>
 </video>
 
-### Bedigungen
+### Bedingungen
 <video controls width="100%"> 
     <source src="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L08/L08_02_Bedingungen.mp4" type="video/mp4"> 
     <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L08/L08_02_Bedingungen.mp4">Zum Video</a>
 </video>
+
+Mit Bedingungen sollen Regeln für den Code festgelegt werden. Je nach Bedingung kann dann unterschiedlicher Code ausgeführt werden. Dabei kann eine Bedingung nur erfüllt oder nicht erfüllt werden, also wahr oder falsch sein. Eine bedingte Anweisung kann man mit einer If-Anweisung formulieren:  
+```typescript
+if (Bedingung) {  
+    // Codeblock, der bei wahrer Bedingung ausgeführt werden soll;  
+}
+```  
+Zum Formulieren von Bedingungen werden oft Vergleichsoperatoren verwendet...
 
 ### Vergleichsoperatoren
 <video controls width="100%"> 
@@ -18,11 +26,15 @@
     <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L08/L08_03_Vergleichsoperatoren.mp4">Zum Video</a>
 </video>
 
+Um Werte miteinander vergleichen zu können werden die verschiedenen Vergleichsoperatoren genutzt. Eine Übersicht der Vergleichsoperatoren mit ihrer Funktionsweise findet ihr auch nochmal [hier](https://www.w3schools.com/js/js_comparisons.asp) auf W3Schools.  
+
 ### Logische Operatoren
 <video controls width="100%"> 
     <source src="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L08/L08_04_Logische_Operatoren.mp4" type="video/mp4"> 
     <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L08/L08_04_Logische_Operatoren.mp4">Zum Video</a>
 </video>
+
+Bedingungen können auch miteinander Verkettet werden - dafür werden logische Operatoren eingesetzt. Bei `&&` UND müssen beide verkettete Bedingungen wahr sein, damit die Aussage wahr ist. Bei `||` ODER reicht es, dass eine der beiden Bedingungen wahr ist, damit die Aussage wahr ist. Der Operator `!` NOT kehrt den Wahrheitswert der Aussage um.
 
 ### Einfache Verzweigung
 <video controls width="100%"> 
@@ -30,11 +42,24 @@
     <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L08/L08_05_Einfache_Verzweigung.mp4">Zum Video</a>
 </video>
 
+If-Else-Anweisungen ermöglichen es eine zugewiesenen Codeblock auszuführen, wenn eine Bedingung mal nicht erfüllt ist. Ausgeführt wird dann entweder der Code vom If-Block (bei wahrer Bedingung) oder vom Else-Block.
+
 ### Mehrfache Verzweigung (If - Else If - Else)
 <video controls width="100%"> 
     <source src="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L08/L08_06_Mehrfache_Verzweigung_If_ElseIf.mp4" type="video/mp4"> 
     <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L08/L08_06_Mehrfache_Verzweigung_If_ElseIf.mp4">Zum Video</a>
 </video>
+
+Mit `else if` können weitere Bedingungen abefragt werden, wenn die erste If-Bedingung nicht erfüllt ist. Dabei geht der Code von oben nach unten durch, bis eine Bedingung erfüllt ist. [W3Schools](https://www.w3schools.com/js/js_if_else.asp) bietet auch zu Verzweigungen eine Zusammenfassung der wichtigen Punkte.  
+```typescript
+if (Bedingung 1) {  
+    Codeblock 1;
+} else if (Bedingung 2) {
+    Codeblock 2;
+} else {
+    Codeblock 3;
+}
+```
 
 ### Mehrfache Verzweigung (Switch Case)
 <video controls width="100%"> 
@@ -42,11 +67,36 @@
     <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L08/L08_07_Mehrfache_Verzweigung_SwitchCase.mp4">Zum Video</a>
 </video>
 
+Bei Switch-Case-Anweisungen wird ein Ausdruck mit Vergleichswerten verlichen. Wenn der Ausdruck dabei einem Vergleichswert entspricht, dann wird der dazugehörige Codeblock ausgeführt. Die Schreibweise vom Switch-Case unterscheidet sich dabei sehr von der If-Else-Schreibweise:
+```typescript
+switch (Ausdruck) {
+case "A":		// : leitet den Codeblock für den Fall ein, dass der Ausdruck gleich "A" ist
+	Codeblock A;
+	Break;		// Break schließt den Codeblock ab
+case "B":
+	Codeblock B;
+	Break;
+default:       // Für den Fall, dass der Ausdruck weder "A" noch "B" ist
+	Default Codeblock;
+}
+```
+Auf [W3Schools](https://www.w3schools.com/js/js_switch.asp) wird auch nochmal auf Switch-Case-Anweisungen eingegangen.
+
 ### Bedigungen – Beispiele und Schreibweisen
 <video controls width="100%"> 
     <source src="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L08/L08_08_Bedigungen_Schreibweisen.mp4" type="video/mp4"> 
     <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L08/L08_08_Bedigungen_Schreibweisen.mp4">Zum Video</a>
 </video>
+
+Für die Abfrage von Bedingungen existieren verschiedene Schreibweisen. Wenn nur eine Codezeile nach einer Bedingung ausgeführt werden soll können die geschweiften Klammern weggelassen werden:
+```typescript
+if (timeSpend > 10) console.Log("Leg eine Pause ein"); 
+```  
+If-Else-Anweisungen können auch verkürzt werden:
+```typescript
+(timeSpend > 10) ? console.Log("Leg eine Pause ein") : console.Log("Noch weiter machen"); 
+```  
+Wenn Sie sich sicher im Umgang mit Bedingungen fühlen, könne Sie auch anfangen diese Kurzschreibweisen und Switch-Case-Anweisungen in Ihren Code einzubauen. Vorerst sollte Sie sich an die einfache Schreibweise halten.
 
 ### Schleifen – Einführung
 <video controls width="100%"> 
