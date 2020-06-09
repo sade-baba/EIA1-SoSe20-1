@@ -36,7 +36,9 @@ Beim **Hexadezimalsystem** hingegen stehen durch die Nutzung der Zeichen **0 –
 
 Statt viele Variablen zu erzeugen, um mehrere typgleiche Informationen zu speichern, kann **ein Array** dafür genutzt werden. Bei der Deklaration weisen eckige Klammern `[]` nach dem Typ darauf hin, dass es sich um ein Array handelt. 
 
-`let mySubjects: string [] = [ 'EIA1', 'Mediengestaltung', 'Medienpsychologie', 'AV-Technik', 'BWL' ]`
+```typescript
+let mySubjects: string [] = [ 'EIA1', 'Mediengestaltung', 'Medienpsychologie', 'AV-Technik', 'BWL' ]
+```
 
 Bei einfach Arrays werden **Indizes** genutzt, um auf einzelne Elemente eines Arrays zu verweisen. Das erste Elemente hat dabei immer den Index 0, das zweite den Index 1 usw. Bei assoziativen Arrays werde statt Indizes Schlüssel genutzt.
 
