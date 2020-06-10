@@ -26,7 +26,7 @@ Zum Formulieren von Bedingungen werden oft Vergleichsoperatoren verwendet...
     <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L08/L08_03_Vergleichsoperatoren.mp4">Zum Video</a>
 </video>
 
-Um Werte miteinander vergleichen zu können werden die verschiedenen Vergleichsoperatoren genutzt. Eine Übersicht der Vergleichsoperatoren mit ihrer Funktionsweise findet ihr auch nochmal [hier](https://www.w3schools.com/js/js_comparisons.asp) auf W3Schools.  
+Um Werte miteinander vergleichen zu können werden die verschiedenen Vergleichsoperatoren genutzt. Eine Übersicht der Vergleichsoperatoren mit ihrer Funktionsweise finden Sie auch nochmal [hier](https://www.w3schools.com/js/js_comparisons.asp) auf W3Schools.  
 
 ### Logische Operatoren
 <video controls width="100%"> 
@@ -104,17 +104,46 @@ Wenn Sie sich sicher im Umgang mit Bedingungen fühlen, könne Sie auch anfangen
     <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L08/L08_09_Schleifen_Einfuehrung.mp4">Zum Video</a>
 </video>
 
+Im Gegensatz zu Bedingungen können Schleifen ihren Codeblock <b>mehrfach</b> durchlaufen. Dabei sind sie aber auch an Laufbedingungen geknüpft. Schleifen sind also vor allem hilfreich, wenn es darum geht den gleichen Code - mit nur kleinen Veränderungen - mehrfach auszuführen. Dabei unterscheiden sich die verschiedenen Arten von Schleifen aber leicht in ihrer Funktionsweise.
+
 ### While-Schleifen
 <video controls width="100%"> 
     <source src="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L08/L08_10_While-Schleifen.mp4" type="video/mp4"> 
     <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L08/L08_10_While-Schleifen.mp4">Zum Video</a>
 </video>
 
+While-Schleifen lassen sich in <b>kopf- und fußgesteuerte Schleifen</b> unterteilen. Die kopfgesteuerte Schleife prüft erst, ob ihre Bediung erfüllt ist, bevor sie ihren Codeblock das erste Mal ausführt:
+```typescript
+let i: number = 0;	// Zählervariable auserhalb der Schleife definieren
+while (i < 3) { // Erst die Bedingung,
+	// dann der auszuführender Codeblock
+	i++;
+}
+```
+
+Die Besonderheit der fußgesteuerten Schleifen ist, dass sie zuerst ihren Codeblock ausführen und nach dem ersten Durchlauf erst prüfen, ob die Bedingung für einen weiteren Durchlauf erfüllt ist. 
+```typescript
+let i: number = 0;	// Zählervariable auserhalb der Schleife definieren
+do {
+	// Auszuführender Codeblock
+	i++;
+} while (i < 3) // Die Bedingung nach dem Codeblock
+```
+In beiden Arten der While-Schleife muss innerhalb des Codeblocks dafür gesorgt werden, dass die Bedingung irgendwann nicht mehr erfüllt wird (hier, indem während jedes Durchlaufes die Variable `i` um eins erhöht wird). Bei einer For-Schleife wird das etwas anders geregelt...
+
 ### Zählschleifen / For-Schleifen
 <video controls width="100%"> 
     <source src="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L08/L08_11_For-Schleifen.mp4" type="video/mp4"> 
     <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L08/L08_11_For-Schleifen.mp4">Zum Video</a>
 </video>
+
+Eine einfache For-Schleife benötigt <b>drei Statements</b> um zu funktionieren. Dabei ist Statement 1 für die Deklaration der Zählervariable zuständig, Statement 2 für die Laufbedingung und Statement 3 für die Anweisung, die nach jedem Schleifendurchlauf ausgeführt werden soll.
+```typescript
+// Erst der Schleifenkopf mit den drei Statements,
+for (let i: number = 0;  i < 3;  i++) {
+	// dann der Codeblock.
+}
+```
 
 ### Schleifen – Zusammenfassung + Beispiele
 <video controls width="100%"> 
@@ -128,12 +157,19 @@ Wenn Sie sich sicher im Umgang mit Bedingungen fühlen, könne Sie auch anfangen
     <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L08/L08_13_Linter.mp4">Zum Video</a>
 </video>
 
+Der Linter weißt auf Fehler hin und überprüft die Form des Codes. Er <b>soll</b> damit die Codequalität und Funktionalität verbessern.
+
 ### Take Aways
 <video controls width="100%"> 
     <source src="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L08/L08_14_Take_Aways.mp4" type="video/mp4"> 
     <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L08/L08_14_Take_Aways.mp4">Zum Video</a>
 </video>
 
+-	Mit Kontrollstrukturen kann Code festgelegt werden, der nur unter bestimmten Bedingungen ausgeführt werden soll
+	-	If-else-Anweisungen und Switch-Case-Anweisungen gehören dazu
+-	Schleifen können einen Anweisungsblock mehrfach durchführen und dabei beispielsweise mehrere ähnliche Elemente bearbeiten
+	-	While, do-while und for-Schleifen
+-	Der Linter überprüft beim Programmieren die Einhaltung der Code-Regeln
 
 
 ## **A _---_** Aufgabe #08
