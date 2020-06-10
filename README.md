@@ -109,4 +109,34 @@
 
 #### [**24 _Jun_** Q&A zu #09](L09/#-qa-fragen-und-antworten)
 
-#### [**26 _Jun_** Praktikum zu Aufgabe #09](L09/#a--aufgabe-09)
+#### [**26 _Jun_** Praktikum zu Aufgabe #09](L09/#a--aufgabe-09))
+
+---
+
+### [**10 _#_** Webtechnologien](L10)
+
+- Überblick Webtechnologien
+- Ausblick Libraries, Frameworks
+
+#### [**01 _Jul_** Q&A zu #10](L10/#-qa-fragen-und-antworten)
+
+#### [**03 _Jul_** Praktikum zu Aufgabe #10](L10/#a--aufgabe-10)
+
+---
+
+### [**11 _#_** Debugging](L11)
+
+- Fehlerbehebungsstrategien
+- Laufzeitumgebungen, Emulatoren und VMs
+
+#### [**08 _Jul_** Q&A zu #11](L11/#-qa-fragen-und-antworten)
+
+#### [**10 _Jul_** Praktikum zu Aufgabe #11](L11/#a--aufgabe-11)
+
+---
+
+### [**12 _#_** WrapUp](L12)
+
+#### **15 _Jul_** Verkündung der Endaufgabe
+
+#### **17 _Jul_** Verkündung des Präsentationsthemas
