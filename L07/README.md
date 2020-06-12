@@ -110,11 +110,88 @@ __Nach Abgabe und Feedback sind Korrekturmöglichkeiten bis 16. Juni, 18:00 Uhr 
 
 
 ## **?! _<small>Q&A</small>_** Fragen und Antworten
-(die Publikation der Zusammenfassung erfolgt nach dem Q&A Termin)
+(die Zusammenfassung der Q&A-Session wurden von Teilnehmern verfasst und ggf. angepasst und ergänzt)
+
+Von [moyitz](https://github.com/moyitz)
 
 
-### Erste Frage?
-Lorem labore cillum mollit pariatur reprehenderit dolor laboris reprehenderit dolor sit officia ea non. Lorem reprehenderit exercitation labore eiusmod aute do nostrud officia aute proident sunt. Labore non tempor aliqua voluptate. Exercitation culpa officia ut aliqua nostrud laborum irure est. Minim eu sunt culpa adipisicing laborum consectetur aliqua quis.
+Prüfung :
 
-### Zweite Frage?
-Mollit aliquip veniam sit eiusmod tempor anim ipsum tempor. Aliqua sunt voluptate ea dolor. Nulla est mollit consectetur cupidatat ut cillum ipsum minim. Est ex et nulla laborum fugiat dolore. Aliquip laboris sint exercitation commodo dolor sint mollit qui sunt ipsum fugiat occaecat id enim.
+- Insgesamt 30 Minuten, (max 15min Präsentation, 10min Diskussion, 5min Check-In / Check-Out)
+
+- Thema der Präsentation wird eine Woche vor Präsentation bekannt gegeben (Auf Basis der EIA  Aufgaben)
+
+- Prüfungszeitfenster wird noch eruiert. (Umfang von 4 Tagen)
+
+Zwei Leistungsnachweise : Präsentation für die Vorlesung, Endaufgabe für das Praktikum (Zeitraum von ca 2 Wochen)
+
+Gibt es eine Themenzuweisung?
+
+Jeder bekommt das gleiche Thema mit offener Formulierung, 30min-Termin für die eigene Präsentation kann aus Prüfungszeitfenster selbst gewählt werden. Dafür wird ein Felix-Kalender eingerichtet, Link wird entsprechend kommuniziert
+
+Wertung:
+
+Präsentation und Endaufgabe werden unabhängig voneinander gewertet.
+
+Verkündung der Endaufgabe findet am 15.Juli statt und die Verkündung des Präsentationsthemas voraussichtlich am 17.Juli.
+
+Anmerkung:
+
+Bei Zusammenarbeit der Aufgaben sollen Kommentar im Dom -- Tree verfasst werden um Plagiatsvorwürfe vorzubeugen, z.B:
+
+„//Ich habe mir Inspiration bei XY geholt..."
+
+Gibt es eine Möglichkeit wie z.b. bei Java eclipse alle Variablen eines Typs umzubenennen (lokal wie auch global)?
+
+Rechtsklick auf Symbol/Variable ? Symbol umbennen
+
+Warum wird das Hexadezimalsystem anstelle des Binärsystems verwendet?
+
+Binärcode ist zu Umfangreich/Komplex und somit für die Entwicklung von Anwendungen nicht sinvoll.
+
+Hex Werte sind greifbarer und lassen sich (auch im Kopf) in RGB -- Werte umrechnen.
+
+Was ist der unterschied zwischen :\
+document.querySelector('h1').setAttribute('style','background:black');\
+und\
+document.querySelector('h1').style.background = 'black';
+
+Beide Varianten können auf verschiedene Weise den Quellcode manipulieren.
+
+..style.background = black verändert nur den einzelnen Wert der Eigenschaft.
+
+Bei setAttribute wird zusätzlich das eigentliche inline Attribut in der HTML Datei noch überschrieben.
+
+Was macht ein Array?
+
+Ein Array besteht aus einer Liste mit der mehre Werte aufgerufen werden können, während eine Variable jeweils nur einen Wert aufrufen und wiedergeben kann.
+
+(Anmerkung: Die Buttons für Aufgabe 07 müssen nicht zwingend in einem Array eingefügt werden.)
+
+Welche Funktion hat das Flowchart?
+
+Durch das Flowchart soll die Herangehensweise an Aufgabe 07 grafisch dargestellt und die Gedankenprozesse bei der Bearbeitung unterstützt werden.
+
+Wie kann man die Abfolge eines Arrays beeinflußen?
+
+Durch Intervalle lassen sich Funktionen periodisch abrufen und wiedergeben, somit kann man mit ein und derselben Funktion mehrere sound samples innerhalb eines gegebenen Zeitraums hintereinander abspielen.
+
+Download der MP3 -- Dateien :
+
+1.  Variante ? Download des gesamten Repositories über Download Button
+
+2.  Variante ? Aufruf der einzelnen MP3 Datei ? Rechtsklick ? Speichern unter ...
+
+Meine Texte sind unterstrichen , was läuft falsch?
+
+Um das Problem zu beheben einfach die strict Anweisung in der Config Datei auf „false" abändern.
+
+Folgendes kann auch in die Config Datei eingefügt werden:
+
+{\
+"compilerOptions": {\
+"target": "es5",\
+"module": "commonjs",\
+"sourceMap": true\
+}\
+}
