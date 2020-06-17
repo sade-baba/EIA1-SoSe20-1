@@ -24,7 +24,7 @@ Deklariert werden Objekte wie eine Variable mit dem Schlüsselwort `var`, dem au
 **Beispiel:** 
 ```typescript
 var objName: InterfaceName = {
-    key1: „value“,
+    key1: "value",
     key2: 123
     key3: true,
     key4: [1, 2, 3]
