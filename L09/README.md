@@ -22,7 +22,14 @@ Objekte sind **komplexe Variablentypen**, die viele Informationseinheiten unters
 Deklariert werden Objekte wie eine Variable mit dem Schlüsselwort `var`, dem ausgewählten `Objektnamen`, dem `Typ` (Name des zu verwendenden Interfaces, siehe nächstes Video) und den Inhalten. Die einzelnen Werte innerhalb eines Objektes sind **kommasepariert**.
 
 **Beispiel:** 
-`var objName: InterfaceName = {key1: „value“, key2: 123 key3: true, key4: [1, 2, 3]};`
+```typescript
+var objName: InterfaceName = {
+    key1: „value“,
+    key2: 123
+    key3: true,
+    key4: [1, 2, 3]
+};
+```
 
 **Objekt-Instanzen** sind einzelne Objekte, die auf Vorlage eines Interfaces erstellt wurden.
 
@@ -38,7 +45,14 @@ Um Objekt-Instanzen zu deklarieren, muss zuerst ein **Interface** definiert werd
 Interface-Definitionen werden über das Schlüsselwort `interface` angesagt und mit einem selbstgewählten (aussagekräftigen) Namen versehen. 
 
 **Beispiel:**
-`interface InterfaceName {key1: string; key2: number; key3: boolean; key4: string[];}`
+```typescript
+interface InterfaceName {
+    key1: string;
+    key2: number;
+    key3: boolean;
+    key4: string[];
+}
+```
 
 **Objekte und Arrays**
 Ein Objekt kann auch Arrays enthalten oder ein Array kann eine Liste von Objekten aufführen. Durch die Verkettung von Interfaces können einzelne Objekt-Instanzen innerhalb eines Arrays genutzt werden.
@@ -55,9 +69,9 @@ Algorithmen sind **Problemlösungsstrategien** in Form von Handlungsvorschriften
 Das Grundprinzip hier heißt **Divide & Conquer** („Teile und Herrsche“): dabei werden Probleme so lange in kleine Teilprobleme unterteilt, bis jedes einzelne Problem ganz einfach und trivial zu verstehen und zu lösen ist. Diese Teilprobleme können dann Schritt für Schritt in eine Programmiersprache übersetzt werden.
 
 **Herangehensweise bei der Problemlösung:**
-1. UI-Skizze zeichnen: grobe Übersicht, wie die Anwendung für den User aussehen soll (User-Interface), und welche Elemente welche Funktionen haben sollen. Daraus lässt sich gut ableiten, welche Einzelbauteile zur Lösungsentwicklung benötigt werden.
-2. Aktivtätsdiagramm aufstellen: Diagramm über den Ablauf/Interaktionsfluss des Programms, z.B. als Flowchart („Was passiert wann?“)
-3. Implementieren: Aktivitätsdiagramm Schritt für Schritt in Code-Anweisungen übersetzen
+1. **UI-Skizze zeichnen:** grobe Übersicht, wie die Anwendung für den User aussehen soll (User-Interface), und welche Elemente welche Funktionen haben sollen. Daraus lässt sich gut ableiten, welche Einzelbauteile zur Lösungsentwicklung benötigt werden.
+2. **Aktivtätsdiagramm aufstellen:** Diagramm über den Ablauf/Interaktionsfluss des Programms, z.B. als Flowchart („Was passiert wann?“)
+3. **Implementieren:** Aktivitätsdiagramm Schritt für Schritt in Code-Anweisungen übersetzen
 
 
 ### Take Aways
