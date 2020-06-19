@@ -210,8 +210,9 @@ __Nach Abgabe und Feedback sind Korrekturmöglichkeiten bis 23. Juni, 18:00 Uhr 
 
 
 ## **?! _<small>Q&A</small>_** Fragen und Antworten
-(die Publikation der Zusammenfassung erfolgt nach dem Q&A Termin)
+(die Zusammenfassung der Q&A-Session wurden von Teilnehmern verfasst und ggf. angepasst und ergänzt)
 
+Von [vtechms](https://github.com/vtechms)
 
 F1
 
