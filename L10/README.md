@@ -1,10 +1,12 @@
-## **10 _#_** Programmiergrundlagen V
+## **10 _#_** Ask the Teacher
 
-### Einführung
-<video controls width="100%"> 
-    <source src="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L10/L10_01_Einfuehrung.mp4" type="video/mp4"> 
-    <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L10/L10_01_Einfuehrung.mp4">Zum Video</a>
-</video>
+Mit den letzten Lektionen haben Sie grundlegende Werkzeug zur Entwicklung interaktiver, web-basierter Anwendung erlernt. Die vielen kleinen Fragmente müssen jetzt in Zusammenhang miteinander verstanden werden. In dieser Woche werden wir deshalb alle Themen aus den letzten Lektionen reviewen, Zusammenhänge klären und mögliche Wissenslücken füllen.
+
+Bitte bereiten Sie sich auf unsere Durchsprache wie folgt vor:
+
+1. Formulieren Sie Fragen im Kontext der EIA1-Lektionen (Fragen bitte ausformulieren, keine Stichworte, wie bspw. "Events").
+2. Ordnen Sie die Fragen einer der drei folgenden Kategorien zu: (1) Theoriethema, (2) Praxisthema, (3) Off-Topic.
+3. Sortieren Sie die drei Kategorie-Listen nach Wichtigkeit. Welche der Fragen "schmerzen" besonders, welche der Fragen sind eher nebensächlich.
 
 
 

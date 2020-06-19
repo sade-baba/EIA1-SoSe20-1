@@ -113,9 +113,7 @@
 
 ---
 
-### [**10 _#_** Ask the Teacher](L10)
-
-#### [**01 _Jul_** Q&A zu #10](L10/#-qa-fragen-und-antworten)
+### [**01 _Jul_** Ask the Teacher](L10)
 
 #### [**03 _Jul_** Praktikum zu Aufgabe #10](L10/#a--aufgabe-10)
 
