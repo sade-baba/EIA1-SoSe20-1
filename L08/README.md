@@ -211,3 +211,92 @@ __Nach Abgabe und Feedback sind Korrekturmöglichkeiten bis 23. Juni, 18:00 Uhr 
 
 ## **?! _<small>Q&A</small>_** Fragen und Antworten
 (die Publikation der Zusammenfassung erfolgt nach dem Q&A Termin)
+
+
+F1
+
+Haben wir erst die Präsentation und dann stellen sie die Fragen?
+
+A1
+
+Ja. Und nicht vergessen, die Präsentation ist keine Gruppenarbeit, jeder kommt alleine dran.
+
+F2
+
+Was ist der Linter?
+
+A2
+
+Ein kleiner Helfer, der den Code überprüft und die Qualität des Codes bewertet.
+
+F3
+
+Was ist der „Hinter"?
+
+A3
+
+Es gibt 2 verschiedene Ausprägungen davon, der „hinter" ist ein „Hinweiser".
+
+Der „Linter" im Gegensatz zum „Hinter" korrigiert die Hinweise.
+
+Linter reicht allgemein aus.
+
+F4
+
+Im ersten Video der Lektion wurde ein Beispiel gebracht über das Thema If-Else, wenn man den Code testet, kommt die Meldung, dass die var Top nicht geht.
+
+A4
+
+Es gibt viele Variablen-Namen, die vom Browser reserviert sind.
+
+Window ist ein übergeordnetes Objekt im Browser.
+
+Top ist eine Eigenschaft von Window, die man global nicht benutzen kann.
+
+F5
+
+Wenn ich den Linter im Überordner meines Projektes habe, funktioniert er dann trotzdem korrekt?
+
+A5
+
+Ja, wenn sie im Vs-Code den Linter auf der höchsten Ebene haben, darunter funktioniert er nicht.
+
+F6 
+
+Warum geht das nicht?
+
+![screenshot-a5.png](screenshot-a5.png)
+
+A6
+
+Nutzen Sie die Methode setAttribute, diese ist besser geeignet:
+
+setAttribute("attrName", "Wert")
+
+Zeile 61-62 setAttribute
+
+Zeile 60 GetAttribute
+
+F7
+
+In einem Video haben Sie mal gesagt, dass Sie als erstes Ihren Button selektieren, das habe ich nicht ganz verstanden (Grund)?
+
+A7
+
+Der Vorteil ist einmal, dass man es besser lesen kann und dass die Performance besser ist.
+
+F8
+
+Ist es egal, ob ich für Schleifen var oder let benutze?
+
+A8
+
+Am Anfang ist es für euch egal, es kann später wichtig sein, sobald ihr granularer Programmieren muss.
+
+F9
+
+Wie kann ich die Schleife z.B. beim DrumPap so definieren, dass meine Schleife weiß, dass sie durchgelaufen ist und nochmals laufen soll (loop)?
+
+A9
+
+Eine Schleife arbeitet sich zu schnell durch die Inhalte, wodurch alle Sounds gleichzeitig abgespielt werden. Intervall ist für diese Aufgabe besser.
