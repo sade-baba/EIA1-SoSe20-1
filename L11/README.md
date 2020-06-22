@@ -1,9 +1,28 @@
 ## **11 _#_** Debugging
 
-### Einführung
+### Debugging
 <video controls width="100%"> 
-    <source src="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L11/L11_01_Einfuehrung.mp4" type="video/mp4"> 
-    <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L11/L11_01_Einfuehrung.mp4">Zum Video</a>
+    <source src="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L11/L11_01_Debugging.mp4" type="video/mp4"> 
+    <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L11/L11_01_Debugging.mp4">Zum Video</a>
+</video>
+
+### Laufzeitumgebungen
+<video controls width="100%"> 
+    <source src="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L11/L11_02_Laufzeitumgebungen.mp4" type="video/mp4"> 
+    <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L11/L11_02_Laufzeitumgebungen.mp4">Zum Video</a>
+</video>
+
+### Emulation und Virtualisierung
+
+<video controls width="100%"> 
+    <source src="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L11/L11_03_Emulation_und_Virtualisierung.mp4" type="video/mp4"> 
+    <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L11/L11_03_Emulation_und_Virtualisierung.mp4">Zum Video</a>
+</video>
+
+### Take Aways
+<video controls width="100%"> 
+    <source src="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L11/L11_04_Take_Aways.mp4" type="video/mp4"> 
+    <a href="https://lehre.gabriel-rausch.de/HFU/EIA1_SoSe20/L11/L11_04_Take_Aways.mp4">Zum Video</a>
 </video>
 
 
