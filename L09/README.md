@@ -120,4 +120,69 @@ __Nach Abgabe und Feedback sind Korrekturmöglichkeiten bis 30. Juni, 18:00 Uhr 
 
 
 ## **?! _<small>Q&A</small>_** Fragen und Antworten
-(die Publikation der Zusammenfassung erfolgt nach dem Q&A Termin)
+(die Zusammenfassung der Q&A-Session wurden von Teilnehmern verfasst und ggf. angepasst und ergänzt)
+
+Von [olifabio](https://github.com/olifabio)
+
+
+
+Fragen zur Aufgabenstellung
+===========================
+
+**I.     **Frage Prof: Was haben Sie aus der aktuellen Lektion mitgenommen? 
+
+Antwort:      Die Grundelemente in Bezug auf -let- Variablen: die Gültigkeit einer -let- Variable lässt sich sehr gut innerhalb eine Code Blocks steuern. 
+
+                     Zusätzlich gibt es die Konstanten -const-. Konstanten sind sinnvoll um einen konstanten Wert, bzw. eine Variable mit einem Wert zu beschreiben, der später nicht mehr geändert werden kann.
+
+                     Empfehlung durch den Prof.: es ist zu empfehlen, nur mit -let- Variablen zu arbeiten. Wenn aber nur einmal definiert werden muss am Anfang des Codes, dann kann man die -const- Variable verwenden. 
+
+                     Interface:
+
+                     Objekte können idealerweise als Interface angegeben werden, die Interface Definition, also der gemeinsame Nenner wird als Interface angegeben.
+
+Der Name des Interfaces kann frei definiert werden. Danach werden die Eigenschaften Wert für Wert definiert. (s. Erklärvideo Lektion: Programmiergrundlagen IV_Objekte und Interfaces)
+
+**II.     **Frage:         Kann ein Steckbrief für mehrere Peronen angegeben werden? 
+
+Prof: Überlegen Sie im aktuellen Aufgbenkontext, würde es da Sinn machen ein Objekt einzusetzen oder nicht?
+
+Antwort:      Nein, es wurde so verstanden, dass nur ein Objekt gebraucht wird, wenn verschiedene Produkte gelagert werden und dann die entsprechenden Dinge ausgegeben werden. Prof: Bei einer To do Liste haben Sie eine Liste von to do's die dann irgendwo abgespeichert werden müssen. 
+
+                     Eine Liste von einzelnen Schnipseln kann mit einem Array gemacht werden. 
+
+                     Prof: Es wurde noch nicht aufgelöst, es gibt verschieden Ansätze, wie eine to do Liste erstellt werden kann. Wir sind frei in der Herangehensweise. 
+
+Antwort:      In der nächsten Lektion, in der nächsten Woche wird ein Paket mit Code Schnipseln zur Verfügung gestellt, mit dem weitergearbeitet werden kann. 
+
+                     Diese Woche lediglich die To Do App, wie wir sie gerne konzipiert haben.
+
+                     Ansatz für die Zukunft: Best of Version of Code nach der Aufgabenstellung zur Verfügung stellen. 
+
+**III.     **Frage:         Prof: Hat Ihnen der Ansatz bezüglich der Algorithmen geholfen? Haben Sie ein 
+
+Gefühl davon bekommen die Aufgabe in Teilprobleme zu unterteilen?
+
+Antwort:      Je kleiner die Problemmenge ist, desto besser ist sie zu handhaben. Das Problem kleinstmöglich halten und im Endeffekt mit einem Fahrplan, z.B. einem Flussdiagram richtig an einen komplizierten Ansatz heran zu gehen. 
+
+Frage:          Prof: Haben Sie das schon einmal versucht einzusetzen? 
+
+Antwort:      Es wurde schon mal angefangen, aber auch wieder entfernt, da es noch relativ schwierig ist, sich einen Plan zu machen. 
+
+                     Prof: Wenn Sie die Logik nicht beschreiben können, dann können Sie es nicht programmieren. 
+
+                     Daher ist es sehr wichtig, ein richtiges Konzept zu haben, um dann dementsprechend das Problem richtig lösen zu können. 
+
+                     **Eine Grundherangehensweise ist CRUD: es beschreibt 1. Create: Datensatz anlegen, 2. Read or Retrieve: Datensatz lesen, 3. Update: Datensatz aktualisieren, 4. Deleat or Destroy: Datensatz annulieren, löschen. **
+
+                        Eine To Do App ist eine Liste von Einzelelementen. 
+
+**IV.     **Frage: Gibt es noch eine Frage zur Lektion 9?
+
+Antwort: Nein. 
+
+**Nächste Woche**: Es wird Zeit genommen, jede Einzelfragmente, die wir gelernt haben zu ordnen. Es wird eine Ask the Teacher Lesson geben. 
+
+Es können alle möglichen Fragen gestellt werden, die uns beschäftigen und auch weiterbringen könnten. 
+
+Es soll vorbereitet werden für die nächste Woche: Genaue Formulierungen der Problemstellungen. Die jeweiligen Problemstellungen sollen selektiert werden in ihrer Gewichtung (schwierig, sehr wichtig, nicht so wichtig, weniger wichtig) etc. pp.
