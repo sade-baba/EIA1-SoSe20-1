@@ -22,7 +22,7 @@ Als Grundlage für den aktuellen Stand der ToDo-App nutzen Sie bitte die **Vorla
 
 2. In der aktuellen App werden neue ToDos am Ende der Liste eingefügt. Ändern Sie das bitte: ein neuer Eintrag soll am Anfang der Liste eingefügt werden.
 
-3. Der Zähler soll erweitert werden. Aktuell steht hier nur die Gesamtzahl der ToDos. Erweitern Sie die Anzeige, um die Anzahl der offenen und geschlossenen ToDos anzuzeigen: 6 in total | 4 open | 2 done
+3. Der Zähler soll erweitert werden. Aktuell steht hier nur die Gesamtzahl der ToDos. Erweitern Sie die Anzeige, um die Anzahl der offenen und geschlossenen ToDos anzuzeigen: 6 in total, 4 open, 2 done
 
 4. Integrieren Sie die Bibiliothek Artyom. Durch Spracheingabe soll es möglich sein, ein ToDo zu erstellen, bspw. "erstelle Aufgabe 'Einkaufen gehen'"
 
