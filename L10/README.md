@@ -15,7 +15,7 @@ Bitte bereiten Sie sich auf unsere Durchsprache wie folgt vor:
 
 Die ToDo App soll nun angepasst und erweitert werden.
 
-Als Grundlage für den aktuellen Stand der ToDo-App nutzen Sie bitte die **Vorlage** aus diesem [Aufgabenordner](task_material/). Die Kommentarblöcke im TS-Code können Sie natürlich wieder löschen (wenn alles verstanden wurde).
+Als Grundlage für den aktuellen Stand der ToDo-App nutzen Sie bitte die **Vorlage** aus diesem [Aufgabenordner](https://github.com/gabriel-rausch/EIA1-SoSe20/tree/master/task_material/). Die Kommentarblöcke im TS-Code können Sie natürlich wieder löschen (wenn alles verstanden wurde).
 
 
 1. Aktuell werden die Informationen zu einem ToDo-Eintrag in verschiedenen Datencontainern gespeichert. In der Vorlage sehen Sie, dass der Titel eines ToDos und der Zustand (checked/unchecked) in zwei Arrays gespeichert wird. In der vorletzten Vorlesung haben wir uns mit Objekten beschäftigt. Jetzt sollen auch Objekte genutzt werden, um die Informationen zu einem ToDo in einem Objekt abspeichern zu können. Statt zwei Arrays, soll hier mit einem Array und Todo-Objekten gearbeitet werden. Ändern Sie den Code entsprechend.
