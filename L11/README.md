@@ -32,9 +32,9 @@
 
 Siehe Aufgabe #10. Jetzt sollten Sie die beiden letzten Punkte der ToDo-App Aufgabe bearbeiten.
 
-3. Der Zähler soll erweitert werden. Aktuell steht hier nur die Gesamtzahl der ToDos. Erweitern Sie die Anzeige, um die Anzahl der offenen und geschlossenen ToDos anzuzeigen: 6 in total, 4 open, 2 done
+- Der Zähler soll erweitert werden. Aktuell steht hier nur die Gesamtzahl der ToDos. Erweitern Sie die Anzeige, um die Anzahl der offenen und geschlossenen ToDos anzuzeigen: 6 in total, 4 open, 2 done
 
-4. Integrieren Sie die Bibiliothek Artyom. Durch Spracheingabe soll es möglich sein, ein ToDo zu erstellen, bspw. "erstelle Aufgabe 'Einkaufen gehen'"
+- Integrieren Sie die Bibiliothek Artyom. Durch Spracheingabe soll es möglich sein, ein ToDo zu erstellen, bspw. "erstelle Aufgabe 'Einkaufen gehen'"
 
 ## Abgabe bis 12. Juli um 18:00 Uhr
 __Nach Abgabe und Feedback sind Korrekturmöglichkeiten bis 14. Juli, 18:00 Uhr möglich__
