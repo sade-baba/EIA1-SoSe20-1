@@ -40,7 +40,7 @@
 
 ## **A _---_** Endaufgabe
 
-Wir im Kurs und per Email kommuniziert.
+Wird zunächst im Kurs und per Email kommuniziert, danach auch hier auf Github sichtbar.
 
 
 ---
