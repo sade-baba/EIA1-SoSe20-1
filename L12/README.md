@@ -38,11 +38,9 @@
 
 
 
-## **A _---_** Aufgabe #12
+## **A _---_** Endaufgabe
 
-
-## Abgabe bis XXXXX um 18:00 Uhr
-__Nach Abgabe und Feedback sind Korrekturmöglichkeiten bis XXXXX, 18:00 Uhr möglich__
+Wir im Kurs und per Email kommuniziert.
 
 
 ---
