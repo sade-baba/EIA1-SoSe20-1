@@ -136,6 +136,8 @@
 - Ausblick Libraries, Frameworks
 - WrapUp
 
-#### **15 _Jul_** Verkündung der Endaufgabe und des Präsentationsthemas
+#### **12 _Jul_** Verkündung der Endaufgabe
+
+#### **15 _Jul_** Verkündung des Präsentationsthemas
 
 #### **16 _Jul_** Praktikum zur Endaufgabe

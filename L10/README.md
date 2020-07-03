@@ -22,14 +22,17 @@ Als Grundlage für den aktuellen Stand der ToDo-App nutzen Sie bitte die **Vorla
 
 2. In der aktuellen App werden neue ToDos am Ende der Liste eingefügt. Ändern Sie das bitte: ein neuer Eintrag soll am Anfang der Liste eingefügt werden.
 
-3. Der Zähler soll erweitert werden. Aktuell steht hier nur die Gesamtzahl der ToDos. Erweitern Sie die Anzeige, um die Anzahl der offenen und geschlossenen ToDos anzuzeigen: 6 in total, 4 open, 2 done
-
-4. Integrieren Sie die Bibiliothek Artyom. Durch Spracheingabe soll es möglich sein, ein ToDo zu erstellen, bspw. "erstelle Aufgabe 'Einkaufen gehen'"
-
 Bearbeitung wie gehabt: als Unterordner in Ihrem Git Repository (/Aufgabe_X); das fertige Arbeitspaket wieder auf Github pushen und auf Ihrem Kursseiten-Steckbrief verlinken.
 
 ## Abgabe bis 05. Juli um 18:00 Uhr
 __Nach Abgabe und Feedback sind Korrekturmöglichkeiten bis 07. Juli, 18:00 Uhr möglich__
+
+**Aufgabe 10.03 bis 10.04 erst bis zum 12. Juli um 18:00 Uhr**
+
+3. Der Zähler soll erweitert werden. Aktuell steht hier nur die Gesamtzahl der ToDos. Erweitern Sie die Anzeige, um die Anzahl der offenen und geschlossenen ToDos anzuzeigen: 6 in total, 4 open, 2 done
+
+4. Integrieren Sie die Bibiliothek Artyom. Durch Spracheingabe soll es möglich sein, ein ToDo zu erstellen, bspw. "erstelle Aufgabe 'Einkaufen gehen'"
+
 
 
 ---
