@@ -25,6 +25,7 @@ Laufzeitumgebungen sind Anwendungskontexte, die das Ausführen von Apps, Website
 Laufzeitumgebungen könne auch verschachtelt sein, wie zum Beispiel ein Betriebssystem, in dem ein Browser läuft, in welchem wiederum eine Website läuft.
 
 **Browser**
+
 Die Browser sind die Laufzeitumgebungen, die für uns am wichtigsten sind: da es viele unterschiedliche Browser gibt, ist es wichtig, dass unsere Anwendungen fehlerfrei in allen funktionieren.
 
 
@@ -36,6 +37,7 @@ Die Browser sind die Laufzeitumgebungen, die für uns am wichtigsten sind: da es
 </video>
 
 **Emulation**
+
 Um Anwendungen zu testen, lässt man sie im professionellen Bereich auf vielen verschiedenen Endgeräten durchlaufen — da wir diese Möglichkeiten Zuhause meist nicht haben, lassen sich auch über die **browsereigene Emulation** verschiedene Endgeräte simulieren. 
 
 Mithilfe des **Throttling** kann auch die Internetgeschwindigkeit verringert werden, um zu überprüfen, ob Anwendungen auch bei langsamer Ladezeit noch solide funktionieren.
@@ -43,6 +45,7 @@ Mithilfe des **Throttling** kann auch die Internetgeschwindigkeit verringert wer
 **Native Emulationen** sind eine weitere Möglichkeit, um Smartphones oder andere Ausgabegeräte zu simulieren, was dann schon sehr nah an die wirklichen Geräte kommt.
 
 **Virtualisierung**
+
 Auch Betriebssysteme können virtuell nachgebildet werden, sodass geprüft werden kann, ob Anwendungen auch unter anderen Betriebssystemen funktionieren.
 
 
