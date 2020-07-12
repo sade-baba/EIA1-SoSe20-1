@@ -124,7 +124,7 @@ Diese Punkte MÜSSEN nicht erfüllt werden! Sie fließen jedoch positiv in die B
 
 
 
-[Link zum Materialordner](https://github.com/gabriel-rausch/EIA1-SoSe20/tree/master/L10/task_material)
+[Link zum Materialordner](https://github.com/gabriel-rausch/EIA1-SoSe20/tree/master/L12/task_material)
 
 
 ### Abgabe
