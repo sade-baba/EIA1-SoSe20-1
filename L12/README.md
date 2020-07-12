@@ -58,7 +58,7 @@ Um die eigene Entwicklung zu testen gibt es außerdem die Möglichkeit automatis
 
 ## **A _---_** Endaufgabe & Präsentationsthema
 
-Die Beschreibung für die [Endaufgabe](Final_Task.html) finden Sie [hier](Final_Task.html)
+Die Beschreibung für die [Endaufgabe](final_task.html) finden Sie [hier](final_task.html)
 
 Das Präsentationsthema wird am 15. Juli verkündet.
 
