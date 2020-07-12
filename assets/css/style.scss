@@ -152,3 +152,16 @@ footer.site-footer, footer a {
         height: 100%;
     }
 }
+
+/**
+ * Task list items
+ */
+
+ .task-list-item {
+    list-style-type: none;
+    
+    .task-list-item-checkbox {
+        margin: 0 0.8em .25em -1.6em;
+        vertical-align: middle;
+    }
+}

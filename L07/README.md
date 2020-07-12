@@ -105,6 +105,9 @@ Bearbeitung wie gehabt: als Unterordner in Ihrem Git Repository (/Aufgabe_7); da
 ## Abgabe bis 14. Juni um 18:00 Uhr
 __Nach Abgabe und Feedback sind Korrekturmöglichkeiten bis 16. Juni, 18:00 Uhr möglich__
 
+Samples von freesound.org, Creative Commons 0 License
+
+
 
 ---
 

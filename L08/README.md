@@ -17,7 +17,7 @@ Mit Bedingungen sollen Regeln für den Code festgelegt werden. Je nach Bedingung
 if (Bedingung) {  
     // Codeblock, der bei wahrer Bedingung ausgeführt werden soll;  
 }
-```  
+```
 Zum Formulieren von Bedingungen werden oft Vergleichsoperatoren verwendet...
 
 ### Vergleichsoperatoren
@@ -91,11 +91,11 @@ Auf [W3Schools](https://www.w3schools.com/js/js_switch.asp) wird auch nochmal au
 Für die Abfrage von Bedingungen existieren verschiedene Schreibweisen. Wenn nur eine Codezeile nach einer Bedingung ausgeführt werden soll können die geschweiften Klammern weggelassen werden:
 ```typescript
 if (timeSpend > 10) console.Log("Leg eine Pause ein"); 
-```  
+```
 If-Else-Anweisungen können auch verkürzt werden:
 ```typescript
 (timeSpend > 10) ? console.Log("Leg eine Pause ein") : console.Log("Noch weiter machen"); 
-```  
+```
 Wenn Sie sich sicher im Umgang mit Bedingungen fühlen, könne Sie auch anfangen diese Kurzschreibweisen und Switch-Case-Anweisungen in Ihren Code einzubauen. Vorerst sollte Sie sich an die einfache Schreibweise halten.
 
 ### Schleifen – Einführung
@@ -204,6 +204,9 @@ Mit der Tastatur soll das Drum-Pad ebenfalls bedienbar sein. Die Tastenbelegung 
 
 ## Abgabe bis 21. Juni um 18:00 Uhr
 __Nach Abgabe und Feedback sind Korrekturmöglichkeiten bis 23. Juni, 18:00 Uhr möglich__
+
+Samples von freesound.org, Creative Commons 0 License
+
 
 
 ---

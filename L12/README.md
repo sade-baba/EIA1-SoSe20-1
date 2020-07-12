@@ -38,10 +38,11 @@
 
 
 
-## **A _---_** Endaufgabe
+## **A _---_** Endaufgabe & Präsentationsthema
 
-Wird zunächst im Kurs und per Email kommuniziert, danach auch hier auf Github sichtbar.
+Die Beschreibung für die [Endaufgabe](Final_Task.html) finden Sie [hier](Final_Task.html)
 
+Das Präsentationsthema wird am 15. Juli verkündet.
 
 ---
 
